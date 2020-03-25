@@ -1,2 +1,2 @@
-# handbook
-IllumiDesk employee handbook
+# Initial page
+
