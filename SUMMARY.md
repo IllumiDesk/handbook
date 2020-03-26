@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [IllumiDesk LLC](README.md)
+* [Table of Contents](table-of-contents.md)
+* [Untitled](untitled.md)
 
