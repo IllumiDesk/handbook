@@ -4,7 +4,7 @@
 
 ### 1. INTRODUCTION
 
-  1.1 Handbook Disclaimer 02-08-2017
+  1.1  Handbook Disclaimer 02-08-2017
 
   1.2 Welcome Message 02-08-2017 
 
@@ -52,7 +52,7 @@
 
   4.7 Break Time for Nursing Mothers 02-08-2017 
 
-### 5. EMPLOYEE BENEFITS 5. EMPLOYEE BENEFITS
+### 5. EMPLOYEE BENEFITS
 
   5.1 Health Insurance 02-08-2017 
 
