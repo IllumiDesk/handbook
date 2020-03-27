@@ -4,7 +4,7 @@
 
 ## IllumiDesk LLC Handbook <a id="handbook"></a>
 
-* [Table of Contents](handbook/table-of-contents/README.md)
+* [IllumiDesk LLC](handbook/table-of-contents/README.md)
   * [Introduction](handbook/table-of-contents/introduction.md)
   * [General Employment](handbook/table-of-contents/general-employment.md)
   * [Employment Status & Recordkeeping](handbook/table-of-contents/employment-status-and-recordkeeping.md)
