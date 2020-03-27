@@ -2,61 +2,61 @@
 
 ### 2.1 At-Will Employment
 
-Employment with 3BLADES LLC is "at-will." This means employees are free to resign at any time, with or without cause, and 3BLADES LLC may terminate the employment relationship at any time, with or without cause or advance notice. As an at-will employee, it is not guaranteed, in any manner, that you will be employed with 3BLADES LLC for any set period of time.
+Employment with IllumiDesk LLC is "at-will." This means employees are free to resign at any time, with or without cause, and IllumiDesk LLC may terminate the employment relationship at any time, with or without cause or advance notice. As an at-will employee, it is not guaranteed, in any manner, that you will be employed with IllumiDesk LLC for any set period of time.
 
-The policies set forth in this employee handbook are the policies that are in effect at the time of publication. They may be amended, modified, or terminated at any time by 3BLADES LLC, except for the policy on at-will employment, which may be modified only by a signed, written agreement between the President and the employee at issue. Nothing in this handbook may be construed as creating a promise of future benefits or a binding contract between 3BLADES LLC and any of its employees.
+The policies set forth in this employee handbook are the policies that are in effect at the time of publication. They may be amended, modified, or terminated at any time by IllumiDesk LLC, except for the policy on at-will employment, which may be modified only by a signed, written agreement between the President and the employee at issue. Nothing in this handbook may be construed as creating a promise of future benefits or a binding contract between IllumiDesk LLC and any of its employees.
 
 ### 2.2 Immigration Law Compliance
 
-3BLADES LLC is committed to employing only United States citizens and aliens who are authorized to work in the United States.
+IllumiDesk LLC is committed to employing only United States citizens and aliens who are authorized to work in the United States.
 
-In compliance with the Immigration Reform and Control Act of 1986, as amended, each new employee, as a condition of employment, must complete the Employment Eligibility Verification Form I-9 and present documentation establishing identity and employment eligibility. Former employees who are rehired must also complete the form if they have not completed an I-9 with 3BLADES LLC within the past three years, or if their previous I-9 is no longer retained or valid.
+In compliance with the Immigration Reform and Control Act of 1986, as amended, each new employee, as a condition of employment, must complete the Employment Eligibility Verification Form I-9 and present documentation establishing identity and employment eligibility. Former employees who are rehired must also complete the form if they have not completed an I-9 with IllumiDesk LLC within the past three years, or if their previous I-9 is no longer retained or valid.
 
-3BLADES LLC may participate in the federal government's electronic employment verification system, known as “E-Verify.” Pursuant to E-Verify, 3BLADES LLC provides the Social Security Administration, and if necessary, the Department of Homeland Security with information from each new employee's Form I-9 to confirm work authorization.
+IllumiDesk LLC may participate in the federal government's electronic employment verification system, known as “E-Verify.” Pursuant to E-Verify, IllumiDesk LLC provides the Social Security Administration, and if necessary, the Department of Homeland Security with information from each new employee's Form I-9 to confirm work authorization.
 
 ### 2.3 Equal Employment Opportunity
 
-3BLADES LLC is an Equal Opportunity Employer. Employment opportunities at 3BLADES LLC are based upon one's qualifications and capabilities to perform the essential functions of a particular job. All employment opportunities are provided without regard to race, religion, sex, pregnancy, childbirth or related medical conditions, national origin, age, veteran status, disability, genetic information, or any other characteristic protected by law.
+IllumiDesk LLC is an Equal Opportunity Employer. Employment opportunities at IllumiDesk LLC are based upon one's qualifications and capabilities to perform the essential functions of a particular job. All employment opportunities are provided without regard to race, religion, sex, pregnancy, childbirth or related medical conditions, national origin, age, veteran status, disability, genetic information, or any other characteristic protected by law.
 
 This Equal Employment Opportunity policy governs all aspects of employment, including, but not limited to, recruitment, hiring, selection, job assignment, promotions, transfers, compensation, discipline, termination, layoff, access to benefits and training, and all other conditions and privileges of employment.
 
 The Company will provide reasonable accommodations as necessary and where required by law so long as the accommodation does not pose an undue hardship on the business. This policy is not intended to afford employees with any greater protections than those which exist under federal, state or local law.
 
-3BLADES LLC strongly urges the reporting of all instances of discrimination and harassment, and prohibits retaliation against any individual who reports discrimination, harassment, or participates in an investigation of such report. 3BLADES LLC will take appropriate disciplinary action, up to and including immediate termination, against any employee who violates this policy.
+IllumiDesk LLC strongly urges the reporting of all instances of discrimination and harassment, and prohibits retaliation against any individual who reports discrimination, harassment, or participates in an investigation of such report. IllumiDesk LLC will take appropriate disciplinary action, up to and including immediate termination, against any employee who violates this policy.
 
 ### 2.4 Grievances
 
-It is the policy of 3BLADES LLC to maintain a harmonious workplace environment. 3BLADES LLC encourages its employees to express concerns about work-related issues, including workplace communication, interpersonal conflict, and other working conditions.
+It is the policy of IllumiDesk LLC to maintain a harmonious workplace environment. IllumiDesk LLC encourages its employees to express concerns about work-related issues, including workplace communication, interpersonal conflict, and other working conditions.
 
 Employees are encouraged to raise concerns with their supervisors. If not resolved at this level, an employee may submit, in writing, a signed grievance to the Human Resources Representative.
 
-After receiving a written grievance, 3BLADES LLC may hold a meeting with the Page 7 of 45
+After receiving a written grievance, IllumiDesk LLC may hold a meeting with the Page 7 of 45
 
 employee, the immediate supervisor, and any other individuals who may assist in the investigation or resolution of the issue. All discussions related to the grievance will be limited to those involved with, and who can assist with, resolving the issue.
 
-Complaints involving alleged discriminatory practices shall be processed in accordance with 3BLADES LLC's Sexual and other Unlawful Harassment Policy.
+Complaints involving alleged discriminatory practices shall be processed in accordance with IllumiDesk LLC's Sexual and other Unlawful Harassment Policy.
 
-3BLADES LLC assures that all employees filing a grievance or complaint can do so without fear of retaliation or reprisal.
+IllumiDesk LLC assures that all employees filing a grievance or complaint can do so without fear of retaliation or reprisal.
 
 ### 2.5 Internal Communication
 
-Effective and ongoing communication within 3BLADES LLC is essential. As such, the Company maintains systems through which important information can be shared among employees and management.
+Effective and ongoing communication within IllumiDesk LLC is essential. As such, the Company maintains systems through which important information can be shared among employees and management.
 
-Bulletin boards are posted in designated areas of the workplace to display important information and announcements. In addition, 3BLADES LLC uses the Intranet and email to facilitate communication and share access to documents. For information on appropriate email and Internet usage, employees may refer to the Computer, Email, and Internet Usage policy.
+Bulletin boards are posted in designated areas of the workplace to display important information and announcements. In addition, IllumiDesk LLC uses the Intranet and email to facilitate communication and share access to documents. For information on appropriate email and Internet usage, employees may refer to the Computer, Email, and Internet Usage policy.
 
 All employees are responsible for checking internal communications on a frequent and regular basis. Employees should consult their supervisor with any questions or concerns on information disseminated.
 
 ### 2.6 Outside Employment
 
-On occasion, employees of 3BLADES LLC may decide to seek employment outside their regular working hours. The company has no objection to this type of work when it does not interfere with employee performance or attendance at 3BLADES LLC and when he or she is not in the employ of a vendor, client or competitor so as to create a conflict of interest in employment.
+On occasion, employees of IllumiDesk LLC may decide to seek employment outside their regular working hours. The company has no objection to this type of work when it does not interfere with employee performance or attendance at IllumiDesk LLC and when he or she is not in the employ of a vendor, client or competitor so as to create a conflict of interest in employment.
 
 All employees engaged in outside employment must immediately inform their supervisors in writing. Failure to disclose or misrepresent outside employment may result in disciplinary action, up to and including termination.
 
-All employees will be judged by the same performance standards and will be subject to 3BLADES LLC’s scheduling demands, regardless of any existing outside work requirements.
+All employees will be judged by the same performance standards and will be subject to IllumiDesk LLC’s scheduling demands, regardless of any existing outside work requirements.
 
 ### 2.7 Anti-Retaliation and Whistleblower Policy
 
-This policy is designed to protect employees and address 3BLADES LLC's commitment to integrity and ethical behavior. In accordance with anti-retaliation and whistleblower protection regulations, 3BLADES LLC will not tolerate any retaliation against an employee who:
+This policy is designed to protect employees and address IllumiDesk LLC's commitment to integrity and ethical behavior. In accordance with anti-retaliation and whistleblower protection regulations, IllumiDesk LLC will not tolerate any retaliation against an employee who:
 
 Makes a good faith complaint, or threatens to make a good faith complaint, regarding the suspected Company or employee violations of the law, including discriminatory or other unfair employment practices;
 
@@ -78,13 +78,13 @@ Employees who wish to report a violation should contact their supervisor or Greg
 
 Werner directly. Employees should also review their state and local requirements for any additional reporting guidelines.
 
-3BLADES LLC will promptly and thoroughly investigate and, if necessary, address any reported violation.
+IllumiDesk LLC will promptly and thoroughly investigate and, if necessary, address any reported violation.
 
 Employees who have any questions or concerns regarding this policy and related reporting requirements should contact their supervisor, the Human Resources Representative or any state or local agency responsible for investigating alleged violations.
 
 ### 2.8 Employee Suggestions
 
-3BLADES LLC encourages employee feedback in order to improve upon Company operations and employee satisfaction. Employees who have suggestions can write them down and put them in the suggestion box located outside of the Human Resources Representative's office.
+IllumiDesk LLC encourages employee feedback in order to improve upon Company operations and employee satisfaction. Employees who have suggestions can write them down and put them in the suggestion box located outside of the Human Resources Representative's office.
 
 Your suggestions will be anonymous, and every care will be taken to preserve employee privacy. The Human Resources Representative checks the box on a regular basis and meetings are held to determine which suggestions will be implemented.
 

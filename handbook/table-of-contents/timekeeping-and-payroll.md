@@ -2,7 +2,7 @@
 
 ### 7.1 Attendance & Punctuality
 
-Absenteeism and tardiness place an undue burden on other employees and on the Company. 3BLADES LLC expects regular attendance and punctuality from all employees. This means being in the workplace, ready to work, at your scheduled start time each day and completing your entire shift. Employees are also expected to return from scheduled meal and break periods on time.
+Absenteeism and tardiness place an undue burden on other employees and on the Company. IllumiDesk LLC expects regular attendance and punctuality from all employees. This means being in the workplace, ready to work, at your scheduled start time each day and completing your entire shift. Employees are also expected to return from scheduled meal and break periods on time.
 
 All time off must be requested in writing, in advance, as outlined in the Company’s Paid Time Off \(PTO\) policy. If an employee is unexpectedly unable to report for work for any reason, he or she must directly notify their supervisor as early as possible, and preferably prior to their scheduled starting time. It is not acceptable to leave a voicemail message with a supervisor, except in extreme emergencies. In cases that warrant leaving a voicemail message or when an employee’s direct supervisor is unavailable, a follow-up call must be made later that day.
 
@@ -32,7 +32,7 @@ Altering, falsifying, tampering with time records, or recording time on another 
 
 ### 7.3 Paydays
 
-3BLADES LLC employees are paid on a Semi-monthly basis. In the event that a regularly scheduled payday falls on a holiday, employees will be paid on the day preceding the holiday, unless otherwise required by state law.
+IllumiDesk LLC employees are paid on a Semi-monthly basis. In the event that a regularly scheduled payday falls on a holiday, employees will be paid on the day preceding the holiday, unless otherwise required by state law.
 
 Paychecks will not, under any circumstances, be given to any person other than the employee without written authorization. Paychecks may also be mailed to the employee's listed address or, upon advance written authorization, deposited directly into an employee's bank account. Employees who elect payment through direct deposit will receive an itemized statement of wages when the Company makes direct deposits.
 
@@ -42,7 +42,7 @@ accordance with applicable federal, state and local laws.
 
 ### 7.4 Payroll Deductions
 
-3BLADES LLC makes deductions from employee pay only in circumstances permitted by applicable law. This includes, but is not limited to, mandatory deductions for income tax withholding and Social Security and Medicare contributions as well as voluntary deductions for health insurance premiums and other related contributions.
+IllumiDesk LLC makes deductions from employee pay only in circumstances permitted by applicable law. This includes, but is not limited to, mandatory deductions for income tax withholding and Social Security and Medicare contributions as well as voluntary deductions for health insurance premiums and other related contributions.
 
-If you believe that an improper deduction has been made from your pay, raise the issue with the Human Resources Representative immediately. 3BLADES LLC will promptly investigate. If the investigation reveals that you were subjected to an improper deduction from pay, you will be reimbursed promptly.
+If you believe that an improper deduction has been made from your pay, raise the issue with the Human Resources Representative immediately. IllumiDesk LLC will promptly investigate. If the investigation reveals that you were subjected to an improper deduction from pay, you will be reimbursed promptly.
 

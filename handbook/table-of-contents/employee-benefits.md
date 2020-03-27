@@ -2,7 +2,7 @@
 
 ### 5.1 Health Insurance
 
-3BLADES LLC's health insurance benefits are intended to protect you and your family from financial loss resulting from hospital, surgical, or other health-related expenses.
+IllumiDesk LLC's health insurance benefits are intended to protect you and your family from financial loss resulting from hospital, surgical, or other health-related expenses.
 
 Eligible employees may elect to begin health insurance benefits On the first day of the month after completing the introductory period.
 
@@ -10,11 +10,11 @@ This policy provides a summary of the benefits which may be provided at the Comp
 
 If there are any conflicts between the handbook or summaries provided and the plan documents, the plan documents will control. The Company reserves the right to amend, interpret, modify or terminate any of its employee benefits programs without prior notice to the extent allowed by law.
 
-For details on the specific health insurance plans offered through 3BLADES LLC, as well as copies of the plan documents, contact the Human Resources Representative.
+For details on the specific health insurance plans offered through IllumiDesk LLC, as well as copies of the plan documents, contact the Human Resources Representative.
 
 ### 5.2 Retirement Plan
 
-3BLADES LLC employees have the opportunity to participate in a company- sponsored retirement plan following 60 days days of service. Full-time employees only are eligible to participate in the plan.
+IllumiDesk LLC employees have the opportunity to participate in a company- sponsored retirement plan following 60 days days of service. Full-time employees only are eligible to participate in the plan.
 
 This policy provides a summary of the benefits which may be provided at the Company’s discretion. Actual coverage is determined by the express terms of the plan documents. We encourage you to review the plan's Summary Plan Description \(SPD\) materials carefully.
 
@@ -22,11 +22,11 @@ If there are any conflicts between the handbook or summaries provided and the pl
 
 without prior notice to the extent allowed by law.
 
-For details on the specific retirement plans offered through 3BLADES LLC, as well as copies of the plan documents, contact the Human Resources Representative.
+For details on the specific retirement plans offered through IllumiDesk LLC, as well as copies of the plan documents, contact the Human Resources Representative.
 
 ### 5.3 Holidays
 
-3BLADES LLC observes the following paid holidays:
+IllumiDesk LLC observes the following paid holidays:
 
 New Year's Day
 
@@ -42,7 +42,7 @@ Day after Thanksgiving Day
 
 Christmas Day
 
-Due to the nature of our business, 3BLADES LLC may require employees to work on a holiday. Employees required to work on holidays will be paid holiday pay in accordance with applicable laws.
+Due to the nature of our business, IllumiDesk LLC may require employees to work on a holiday. Employees required to work on holidays will be paid holiday pay in accordance with applicable laws.
 
 ### 5.4 Paid Time Off \(PTO\)
 
@@ -60,13 +60,13 @@ Paid time off is paid at your base pay rate at the time of the absence. It does 
 
 Employees with an unexpected need \(i.e. sudden illness or emergency\) to request PTO should notify their direct supervisor as early as possible. Employees must also contact their direct supervisor on each additional day of absence.
 
-Work-related accidents and illness are covered by Workers' Compensation Insurance, pursuant to the requirements of the laws in the state\(s\) in which 3BLADES LLC operates. The PTO policy outlined above does not apply to those illnesses or injuries that are covered by an applicable Workers' Compensation policy.
+Work-related accidents and illness are covered by Workers' Compensation Insurance, pursuant to the requirements of the laws in the state\(s\) in which IllumiDesk LLC operates. The PTO policy outlined above does not apply to those illnesses or injuries that are covered by an applicable Workers' Compensation policy.
 
 ### 5.5 Bereavement Leave
 
 Bereavement leave provides paid time off for eligible employees in the event of a death in their immediate family. Employees in the following employment classification\(s\) are eligible for bereavement leave: Full-time employees only
 
-An immediate family member for purposes of 3BLADES LLC's bereavement leave policy includes the following:
+An immediate family member for purposes of IllumiDesk LLC's bereavement leave policy includes the following:
 
 Spouse
 
@@ -94,7 +94,7 @@ To be eligible for paid time off for bereavement, employees are expected to noti
 
 ### 5.6 Employee Referral Program
 
-3BLADES LLC offers an employee referral program to encourage employees to recommend qualified candidates. Our referral program provides employees with a referral bonus for successful hires made based upon an employee's recommendation. If a recommended candidate is hired and completes 90 days of service, the employee who provided the referral will be entitled to a bonus.
+IllumiDesk LLC offers an employee referral program to encourage employees to recommend qualified candidates. Our referral program provides employees with a referral bonus for successful hires made based upon an employee's recommendation. If a recommended candidate is hired and completes 90 days of service, the employee who provided the referral will be entitled to a bonus.
 
 All referred candidates will be considered and evaluated based on experience and qualifications and will be subject to the same pre-employment standards as all other candidates.
 
@@ -102,7 +102,7 @@ Questions regarding this policy should be directed to the Human Resources Repres
 
 ### 5.7 Military Leave
 
-3BLADES LLC grants employees time off for service, training and other obligations in the uniformed services in accordance with the Uniformed Services Employment and Reemployment Rights Act \(USERRA\) and any other applicable state law.
+IllumiDesk LLC grants employees time off for service, training and other obligations in the uniformed services in accordance with the Uniformed Services Employment and Reemployment Rights Act \(USERRA\) and any other applicable state law.
 
 All employees requesting time off for military service must provide advance notice to their immediate supervisor, unless military necessity prevents such notice or it is otherwise impracticable. Continuation of health insurance benefits is available during military leave subject to the terms and conditions of the group health plan and applicable law.
 
@@ -110,45 +110,45 @@ Employees are eligible for reemployment for up to five years from the date their
 
 Employees who qualify for reemployment will return to work at a pay level and status equal to that which they would have attained had they not taken military leave. They will be treated as though they were continuously employed for purposes of determining benefits based on length of service.
 
-3BLADES LLC complies with all rights and protections under all applicable state laws granting time off for service, training and other obligations in the uniformed services. This includes, but is not limited to, benefits entitlement and continuation, notice and recertification requirements, and reemployment application requirements.
+IllumiDesk LLC complies with all rights and protections under all applicable state laws granting time off for service, training and other obligations in the uniformed services. This includes, but is not limited to, benefits entitlement and continuation, notice and recertification requirements, and reemployment application requirements.
 
 Questions regarding this policy should be directed to the Human Resources Representative.
 
 ### 5.8 Jury Duty
 
-3BLADES LLC encourages employees to fulfill their civic responsibilities when called upon to serve as a juror. Employees must provide their immediate supervisor with a copy of their jury summons as soon as possible so that the supervisor may make arrangements to accommodate their absence.
+IllumiDesk LLC encourages employees to fulfill their civic responsibilities when called upon to serve as a juror. Employees must provide their immediate supervisor with a copy of their jury summons as soon as possible so that the supervisor may make arrangements to accommodate their absence.
 
-Employees on jury duty must report to work on workdays, or parts of workdays, when they are not required to serve. Either 3BLADES LLC or the employee may request an excuse from jury duty if it is determined that the employee's absence would create serious operational difficulties.
+Employees on jury duty must report to work on workdays, or parts of workdays, when they are not required to serve. Either IllumiDesk LLC or the employee may request an excuse from jury duty if it is determined that the employee's absence would create serious operational difficulties.
 
 Jury duty will be paid if required by applicable state law. If paid, jury duty pay will be calculated on the employee's base pay rate times the number of hours the employee would otherwise have worked on the day of absence.
 
 ### 5.9 Workers' Compensation
 
-Employees who are injured on the job at 3BLADES LLC are eligible for Workers' Compensation benefits. Such benefits are provided at no cost to employees and cover any injury or illness sustained in the course of employment that requires medical treatment.
+Employees who are injured on the job at IllumiDesk LLC are eligible for Workers' Compensation benefits. Such benefits are provided at no cost to employees and cover any injury or illness sustained in the course of employment that requires medical treatment.
 
-Employees who sustain work-related injuries or illnesses must notify their supervisor immediately so that 3BLADES LLC can notify the workers' compensation insurance carrier as soon as possible.
+Employees who sustain work-related injuries or illnesses must notify their supervisor immediately so that IllumiDesk LLC can notify the workers' compensation insurance carrier as soon as possible.
 
-Lost time or medical expenses incurred as a result of an accident or injury which occurred while an employee was on the job will be compensated for in accordance with workers' compensation laws. This protection is paid for in full by 3BLADES LLC. No premium is charged for this coverage and no individual enrollment is required. 3BLADES LLC will provide medical care and a portion of lost wages through our insurance carrier.
+Lost time or medical expenses incurred as a result of an accident or injury which occurred while an employee was on the job will be compensated for in accordance with workers' compensation laws. This protection is paid for in full by IllumiDesk LLC. No premium is charged for this coverage and no individual enrollment is required. IllumiDesk LLC will provide medical care and a portion of lost wages through our insurance carrier.
 
 All job-related accidents or illnesses must be reported to an employee's supervisor immediately upon occurrence. Supervisors will then immediately contact the Human Resources Representative to obtain the required claim forms and instructions.
 
 ### 5.10 Voting Leave \(Georgia Employees\)
 
-3BLADES LLC requests that, whenever possible, employees vote before or after work hours to avoid interference with business operations. However, if an employee does not have sufficient time outside of work hours to cast his or her ballot, the employee may be eligible for time off to vote.
+IllumiDesk LLC requests that, whenever possible, employees vote before or after work hours to avoid interference with business operations. However, if an employee does not have sufficient time outside of work hours to cast his or her ballot, the employee may be eligible for time off to vote.
 
-3BLADES LLC may specify the hours during which the employee may take leave to vote. Such time will generally be limited to the beginning or end of a working shift unless otherwise mutually agreed.
+IllumiDesk LLC may specify the hours during which the employee may take leave to vote. Such time will generally be limited to the beginning or end of a working shift unless otherwise mutually agreed.
 
 If there are fewer than two consecutive hours between the opening of the polls and the beginning of an employee's workday or between the end of an employee's workday and the closing of the polls, an employee may take up to two hours of leave to vote on Election Day.
 
 To the extent possible, employees must provide reasonable notice of their need for leave under this policy.
 
-Employees must be prepared to provide 3BLADES LLC with certification, such as a voter's receipt, to prove that he or she voted.
+Employees must be prepared to provide IllumiDesk LLC with certification, such as a voter's receipt, to prove that he or she voted.
 
 5.11 5.11 Flexible Work Arrangements Flexible Work Arrangements
 
-3BLADES LLC understands that, from time to time, employees may require a flexible work arrangement in order to adequately perform their job responsibilities. As such, we have created schedule modifications for which employees may be eligible.
+IllumiDesk LLC understands that, from time to time, employees may require a flexible work arrangement in order to adequately perform their job responsibilities. As such, we have created schedule modifications for which employees may be eligible.
 
-Below are the flexible work arrangements available at 3BLADES LLC:
+Below are the flexible work arrangements available at IllumiDesk LLC:
 
 Compressed workweek: Compressed workweek: Employees are required to work their typically scheduled hours, but may do so in a shorter period of time. For example, an employee may work four ten-hour days each week rather than their typical five eight-hour days.
 
@@ -158,7 +158,7 @@ Telecommuting: Telecommuting: Although employees are encouraged to report to the
 
 Employees that are unable to fulfill their normal scheduling demands may request one of the above schedule arrangements. All requests must be submitted writing to your supervisor and will be reviewed on a case-by-case basis.
 
-This policy is not intended to diminish or replace any entitlement employees have to a flexible work arrangement under federal, state or local laws. While 3BLADES LLC does not guarantee that your scheduling request will be granted, 3BLADES LLC will abide by all applicable laws when reviewing requests for flexible work arrangements.
+This policy is not intended to diminish or replace any entitlement employees have to a flexible work arrangement under federal, state or local laws. While IllumiDesk LLC does not guarantee that your scheduling request will be granted, IllumiDesk LLC will abide by all applicable laws when reviewing requests for flexible work arrangements.
 
 Questions regarding this policy should be directed toward your supervisor or the
 
@@ -170,7 +170,7 @@ Employees may be entitled to a leave of absence under the Family and Medical Lea
 
 Eligibility Requirements: Eligibility Requirements:
 
-Employees eligible for leave under the FMLA are those who: \(1\) have worked at least 6 months for 3BLADES LLC; \(2\) have worked for at least 625 hours during the 6 month period immediately preceding the start date of the requested leave; and \(3\) are employed at a worksite where 50 or more employees are located within 75 miles of the worksite.
+Employees eligible for leave under the FMLA are those who: \(1\) have worked at least 6 months for IllumiDesk LLC; \(2\) have worked for at least 625 hours during the 6 month period immediately preceding the start date of the requested leave; and \(3\) are employed at a worksite where 50 or more employees are located within 75 miles of the worksite.
 
 Basic FMLA Leave Entitlement: Basic FMLA Leave Entitlement:
 
@@ -202,15 +202,15 @@ At the end of FMLA leave, subject to some exceptions including situations where 
 
 Notice of Eligibility for, and Designation of, FMLA Leave: Notice of Eligibility for, and Designation of, FMLA Leave:
 
-Employees requesting FMLA leave are entitled to receive written notice from 3BLADES LLC telling them whether they are eligible for FMLA leave and, if not eligible, the reasons why they are not eligible. When eligible for FMLA leave, employees are entitled to receive written notice of: \(1\) their rights and responsibilities in connection with such leave; \(2\) the Company's designation of leave as FMLA-qualifying or non-qualifying, if not FMLA-qualifying, the reasons why; and \(3\) the amount of leave, if known, that will be counted against the employee's leave entitlement.
+Employees requesting FMLA leave are entitled to receive written notice from IllumiDesk LLC telling them whether they are eligible for FMLA leave and, if not eligible, the reasons why they are not eligible. When eligible for FMLA leave, employees are entitled to receive written notice of: \(1\) their rights and responsibilities in connection with such leave; \(2\) the Company's designation of leave as FMLA-qualifying or non-qualifying, if not FMLA-qualifying, the reasons why; and \(3\) the amount of leave, if known, that will be counted against the employee's leave entitlement.
 
-3BLADES LLC may retroactively designate leave as FMLA leave with appropriate written notice to employees provided the Company's failure to designate leave as FMLA-qualifying at an earlier date did not cause harm or injury to the employee. In
+IllumiDesk LLC may retroactively designate leave as FMLA leave with appropriate written notice to employees provided the Company's failure to designate leave as FMLA-qualifying at an earlier date did not cause harm or injury to the employee. In
 
-all cases where leaves qualify for FMLA protection, 3BLADES LLC and the employee can mutually agree that leave be retroactively designated as FMLA leave.
+all cases where leaves qualify for FMLA protection, IllumiDesk LLC and the employee can mutually agree that leave be retroactively designated as FMLA leave.
 
 Notice of the Need for Leave: Notice of the Need for Leave:
 
-Employees who take FMLA leave must timely notify 3BLADES LLC of their need for FMLA leave. The following describes the content and timing of such employee notices.
+Employees who take FMLA leave must timely notify IllumiDesk LLC of their need for FMLA leave. The following describes the content and timing of such employee notices.
 
 Content of Employee Notice: Content of Employee Notice:
 
@@ -228,7 +228,7 @@ Medical Certifications: Medical Certifications:
 
 Depending on the nature of FMLA leave sought, employees may be required to submit medical certifications supporting their need for FMLA-qualifying leave. It is Page 29 of 45
 
-the employee's responsibility to provide 3BLADES LLC with timely, complete and sufficient medical certifications. Employees must provide the requested certifications within 15 calendar days following the Company's request, unless it is not practicable to do so. 3BLADES LLC may deny FMLA leave to employees who fail to timely cure deficiencies or otherwise fail to timely submit requested medical certifications.
+the employee's responsibility to provide IllumiDesk LLC with timely, complete and sufficient medical certifications. Employees must provide the requested certifications within 15 calendar days following the Company's request, unless it is not practicable to do so. IllumiDesk LLC may deny FMLA leave to employees who fail to timely cure deficiencies or otherwise fail to timely submit requested medical certifications.
 
 Employees requesting leave because of their own, or a covered relation's, serious health condition, or to care for a covered servicemember, must supply medical certification supporting the need for such leave from their health care provider or, if applicable, the health care provider of their covered family or service member. If employees provide at least 30 days notice of medical leave, they should submit the medical certification before leave begins.
 
@@ -236,7 +236,7 @@ Certifications Supporting Need for Military Family Leave: Certifications Support
 
 Upon request, the first time employees seek leave due to qualifying exigencies arising out of the active duty or call to active duty status of a covered military member, the Company may require employees to provide: \(1\) a copy of the covered military member's active duty orders or other documentation issued by the military indicating the covered military member is on active duty or call to active duty status and the dates of the covered military member's active duty service; and \(2\) a certification from the employee setting forth information concerning the nature of the qualifying exigency for which leave is requested. Employees shall provide a copy of new active duty orders or other documentation issued by the military for leaves arising out of qualifying exigencies arising out of a different active duty or call to active duty status of the same or a different covered military member.
 
-When leave is taken to care for a covered servicemember with a serious injury or illness, 3BLADES LLC may require employees to obtain certifications completed by an authorized health care provider of the covered servicemember.
+When leave is taken to care for a covered servicemember with a serious injury or illness, IllumiDesk LLC may require employees to obtain certifications completed by an authorized health care provider of the covered servicemember.
 
 Substitution of Paid Leave for Unpaid FMLA Leave: Substitution of Paid Leave for Unpaid FMLA Leave:
 

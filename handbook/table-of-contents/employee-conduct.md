@@ -2,7 +2,7 @@
 
 ### 6.1 Standards of Conduct
 
-3BLADES LLC's rules and standards of conduct are essential to a productive work environment. As such, employees must familiarize themselves with, and be prepared to follow, the Company’s rules and standards.
+IllumiDesk LLC's rules and standards of conduct are essential to a productive work environment. As such, employees must familiarize themselves with, and be prepared to follow, the Company’s rules and standards.
 
 While not intended to be an all-inclusive list, the examples below represent behavior that is considered unacceptable in the workplace. Behaviors such as these, as well as other forms of misconduct, may result in disciplinary action, up to and including termination of employment:
 
@@ -36,15 +36,15 @@ This policy is not intended to restrict an employee’s right to discuss, or act
 
 restrict employees’ rights under the National Labor Relations Act.
 
-Other forms of misconduct not listed above may also result in disciplinary action, up to and including termination of employment. If you have questions regarding 3BLADES LLC's standards of conduct, please direct them to your supervisor or the Human Resources Representative.
+Other forms of misconduct not listed above may also result in disciplinary action, up to and including termination of employment. If you have questions regarding IllumiDesk LLC's standards of conduct, please direct them to your supervisor or the Human Resources Representative.
 
 ### 6.2 Disciplinary Action
 
-Disciplinary action at 3BLADES LLC is intended to fairly and impartially correct behavior and performance problems early on and to prevent reoccurrence.
+Disciplinary action at IllumiDesk LLC is intended to fairly and impartially correct behavior and performance problems early on and to prevent reoccurrence.
 
-Disciplinary action may involve any of the following: verbal warning, written warning, suspension with or without pay, and termination of employment, depending on the severity of the problem and the frequency of occurrence. 3BLADES LLC reserves the right to administer disciplinary action at its discretion and based upon the circumstances.
+Disciplinary action may involve any of the following: verbal warning, written warning, suspension with or without pay, and termination of employment, depending on the severity of the problem and the frequency of occurrence. IllumiDesk LLC reserves the right to administer disciplinary action at its discretion and based upon the circumstances.
 
-3BLADES LLC recognizes that certain types of employee behavior are serious enough to justify termination of employment, without observing other disciplinary action first.
+IllumiDesk  LLC recognizes that certain types of employee behavior are serious enough to justify termination of employment, without observing other disciplinary action first.
 
 These violations include but are not limited to:
 
@@ -64,19 +64,19 @@ Use of company equipment and/or company vehicles without prior authorization
 
 Indiscretion regarding personal work history, skills, or training
 
-Divulging 3BLADES LLC business practices or any other confidential information
+Divulging IllumiDesk LLC business practices or any other confidential information
 
-Any misrepresentation of 3BLADES LLC to a customer, a prospective customer, the general public, or an employee
+Any misrepresentation of IllumiDesk LLC to a customer, a prospective customer, the general public, or an employee
 
 ### 6.3 Confidentiality
 
-3BLADES LLC takes the protection of Confidential Information very seriously. “Confidential Information” includes, but is not limited to, computer processes, computer programs and codes, customer lists, customer preferences, customers’ personal information, company financial data, marketing strategies, proprietary production processes, research and development strategies, pricing information, business and marketing plans, vendor information, software, databases, and information concerning the creation, acquisition or disposition of products and services.
+IllumiDesk LLC takes the protection of Confidential Information very seriously. “Confidential Information” includes, but is not limited to, computer processes, computer programs and codes, customer lists, customer preferences, customers’ personal information, company financial data, marketing strategies, proprietary production processes, research and development strategies, pricing information, business and marketing plans, vendor information, software, databases, and information concerning the creation, acquisition or disposition of products and services.
 
-Confidential Information also includes the Company’s intellectual property and information that is not otherwise public. Intellectual property includes, but is not limited to, trade secrets, ideas, discoveries, writings, trademarks, and inventions developed through the course of your employment with 3BLADES LLC and as a direct result of your job responsibilities with 3BLADES LLC. Wages and other conditions of employment are not considered to be Confidential Information.
+Confidential Information also includes the Company’s intellectual property and information that is not otherwise public. Intellectual property includes, but is not limited to, trade secrets, ideas, discoveries, writings, trademarks, and inventions developed through the course of your employment with IllumiDesk LLC and as a direct result of your job responsibilities with IllumiDesk  LLC. Wages and other conditions of employment are not considered to be Confidential Information.
 
 To protect such information, employees may not disclose any confidential or non- public proprietary information about the Company to any unauthorized individual. If you receive a request for Confidential Information, you should immediately refer the request to your supervisor.
 
-The unauthorized disclosure of Confidential Information belonging to the Company, and not otherwise available to persons or companies outside of 3BLADES LLC, may result in disciplinary action, up to and including termination of employment. If you leave the Company, you may not disclose or misuse any Confidential Information.
+The unauthorized disclosure of Confidential Information belonging to the Company, and not otherwise available to persons or companies outside of IllumiDesk LLC, may result in disciplinary action, up to and including termination of employment. If you leave the Company, you may not disclose or misuse any Confidential Information.
 
 This policy is not intended to restrict an employee’s right to discuss, or act together to improve, wages, benefits and working conditions with co-workers or in any way restrict employees’ rights under the National Labor Relations Act.
 
@@ -84,7 +84,7 @@ Questions regarding this policy should be directed to the Human Resources Repres
 
 ### 6.4 Workplace Violence
 
-3BLADES LLC strictly prohibits workplace violence, including any act of intimidation, threat, harassment, physical violence, verbal abuse, aggression or coercion against a coworker, vendor, customer, or visitor.
+IllumiDesk LLC strictly prohibits workplace violence, including any act of intimidation, threat, harassment, physical violence, verbal abuse, aggression or coercion against a coworker, vendor, customer, or visitor.
 
 Prohibited actions, include, but are not limited to the following examples:
 
@@ -102,29 +102,29 @@ Threatening to use or using a weapon while on company premises, on company-relat
 
 Intentionally damaging property
 
-All threats or acts of violence should be reported immediately to your supervisor or security personnel. Employees should warn their supervisors or security personnel of any suspicious workplace activity that they observe or that appears problematic. Employee reports made pursuant to this policy will be kept confidential to the maximum extent possible. 3BLADES LLC will not tolerate any form of retaliation against any employee for making a report under this policy.
+All threats or acts of violence should be reported immediately to your supervisor or security personnel. Employees should warn their supervisors or security personnel of any suspicious workplace activity that they observe or that appears problematic. Employee reports made pursuant to this policy will be kept confidential to the maximum extent possible. IllumiDesk LLC will not tolerate any form of retaliation against any employee for making a report under this policy.
 
-3BLADES LLC will take prompt remedial action, up to and including immediate termination, against any employee found to have engaged in threatening behavior or acts of violence.
+IllumiDesk LLC will take prompt remedial action, up to and including immediate termination, against any employee found to have engaged in threatening behavior or acts of violence.
 
 ### 6.5 Drug & Alcohol Use
 
-3BLADES LLC is committed to maintaining a workplace free of substance abuse. No employee is allowed to consume, possess, sell, purchase, or be under the influence of alcohol or illegal drugs, as defined by federal law, on any property owned by or leased on behalf of 3BLADES LLC, or in any vehicle owned or leased on behalf of 3BLADES LLC.
+IllumiDesk LLC is committed to maintaining a workplace free of substance abuse. No employee is allowed to consume, possess, sell, purchase, or be under the influence of alcohol or illegal drugs, as defined by federal law, on any property owned by or leased on behalf of IllumiDesk LLC, or in any vehicle owned or leased on behalf of IllumiDesk LLC.
 
 The use of over-the-counter drugs and legally prescribed drugs is permitted as long as they are used in the manner for which they were prescribed and provided that such use does not hinder an employee's ability to safely perform his or her job. Employees should inform their supervisor if they believe their medication will impair their job performance, safety or the safety of others, or if they believe they need a 
 
 reasonable accommodation when using such medication.
 
-3BLADES LLC will not tolerate employees who report for duty while impaired by the use of alcohol or drugs. All employees should report evidence of alcohol or drug abuse to their supervisor or the Human Resources Representative immediately. In cases in which the use of alcohol or drugs creates an imminent threat to the safety of persons or property, employees are required to report the violation. Failure to do so may result in disciplinary action, up to and including termination of employment.
+IllumiDesk LLC will not tolerate employees who report for duty while impaired by the use of alcohol or drugs. All employees should report evidence of alcohol or drug abuse to their supervisor or the Human Resources Representative immediately. In cases in which the use of alcohol or drugs creates an imminent threat to the safety of persons or property, employees are required to report the violation. Failure to do so may result in disciplinary action, up to and including termination of employment.
 
-As a part of our effort to maintain a workplace free of substance abuse, 3BLADES LLC employees may be asked to submit to a medical examination and/or clinical testing for the presence of alcohol and/or drugs. Within the limits of federal, state, and local laws, 3BLADES LLC reserves the right to examine and test for drugs and alcohol at our discretion.
+As a part of our effort to maintain a workplace free of substance abuse, IllumiDesk LLC employees may be asked to submit to a medical examination and/or clinical testing for the presence of alcohol and/or drugs. Within the limits of federal, state, and local laws, IllumiDesk LLC reserves the right to examine and test for drugs and alcohol at our discretion.
 
-As a condition of your employment with 3BLADES LLC, employees must comply with this Drug & Alcohol Use Policy. Be advised that no part of the Drug & Alcohol Use Policy shall be construed to alter or amend the at-will employment relationship between 3BLADES LLC and its employees.
+As a condition of your employment with IllumiDesk LLC, employees must comply with this Drug & Alcohol Use Policy. Be advised that no part of the Drug & Alcohol Use Policy shall be construed to alter or amend the at-will employment relationship between IllumiDesk LLC and its employees.
 
 Employees found in violation of this policy may be subject to disciplinary action, up to and including termination of employment.
 
 ### 6.6 Sexual & Other Unlawful Harassment
 
-3BLADES LLC is committed to a work environment in which all individuals are treated with respect. 3BLADES LLC expressly prohibits discrimination and all forms of employee harassment based on race, color, religion, sex, national origin, age, disability, military or veteran status, or status in any group protected by state or local law.
+IllumiDesk LLC is committed to a work environment in which all individuals are treated with respect. IllumiDesk LLC expressly prohibits discrimination and all forms of employee harassment based on race, color, religion, sex, national origin, age, disability, military or veteran status, or status in any group protected by state or local law.
 
 Sexual harassment is a form of discrimination and is prohibited by law. For purposes of this policy sexual harassment is defined as unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature when this conduct explicitly or implicitly affects an individual's employment, unreasonably interferes with an individual's work performance, or creates an intimidating, hostile, or offensive work environment. Unwelcome sexual advances \(either verbal or physical\), requests for sexual favors, and other verbal or
 
@@ -160,7 +160,7 @@ Harassment on the basis of any other protected characteristic is also strictly p
 
 Complaint Procedure: Complaint Procedure:
 
-3BLADES LLC strongly encourages the reporting of all instances of discrimination, harassment, or retaliation. If you believe you have experienced or witnessed harassment or discrimination based on sex, race, national origin, disability, or another factor, promptly report the incident to your supervisor. If you believe it would be inappropriate to discuss the matter with your supervisor, you may bypass your
+IllumiDesk LLC strongly encourages the reporting of all instances of discrimination, harassment, or retaliation. If you believe you have experienced or witnessed harassment or discrimination based on sex, race, national origin, disability, or another factor, promptly report the incident to your supervisor. If you believe it would be inappropriate to discuss the matter with your supervisor, you may bypass your
 
 supervisor and report it directly to:
 
@@ -176,21 +176,21 @@ Any employee found to be engaged in any form of sexual or other unlawful harassm
 
 Retaliation Prohibited: Retaliation Prohibited:
 
-3BLADES LLC expressly prohibits retaliation against any individual who reports discrimination or harassment, or assists in investigating such charges. Any form of retaliation is considered a direct violation of this policy and, like discrimination or harassment itself, will be subject to disciplinary action, up to and including termination of employment.
+IllumiDesk LLC expressly prohibits retaliation against any individual who reports discrimination or harassment, or assists in investigating such charges. Any form of retaliation is considered a direct violation of this policy and, like discrimination or harassment itself, will be subject to disciplinary action, up to and including termination of employment.
 
 ### 6.7 Telephone Usage
 
-3BLADES LLC telephones are intended for the sole use of conducting company business. Personal use of the Company's telephones and individually owned cell phones during business hours is prohibited except in emergencies. In addition, long distance phone calls which are not strictly business-related are expressly prohibited.
+IllumiDesk LLC telephones are intended for the sole use of conducting company business. Personal use of the Company's telephones and individually owned cell phones during business hours is prohibited except in emergencies. In addition, long distance phone calls which are not strictly business-related are expressly prohibited.
 
 Any employee found in violation of this policy will be subject to disciplinary action, up to and including termination of employment.
 
 ### 6.8 Personal Property
 
-Employees should use their discretion when bringing personal property into the workplace. 3BLADES LLC assumes no risk for any loss or damage to personal Page 38 of 45
+Employees should use their discretion when bringing personal property into the workplace. IllumiDesk  LLC assumes no risk for any loss or damage to personal Page 38 of 45
 
 property.
 
-Additionally, employees may not possess or display any property that may be viewed as inappropriate or offensive on 3BLADES LLC premises.
+Additionally, employees may not possess or display any property that may be viewed as inappropriate or offensive on IllumiDesk LLC premises.
 
 ### 6.9 Use of Company Property
 
@@ -198,7 +198,7 @@ Company property refers to anything owned by the company: physical, electronic, 
 
 When materials or equipment are assigned to an employee for business, it is the employee's responsibility to see that the equipment is used properly and cared for properly. However, at all times, equipment assigned to the employee remains the property of the Company, and is subject to reassignment and/or use by the Company without prior notice or approval of the employee. This includes, but is not limited to, computer equipment and data stored thereon, voicemail, records, and employee files.
 
-3BLADES LLC has created specific guidelines regarding the use of company equipment. Below is a list of employee responsibilities and limitations with regards to company property.
+IllumiDesk LLC has created specific guidelines regarding the use of company equipment. Below is a list of employee responsibilities and limitations with regards to company property.
 
 Personal use of company property: Personal use of company property:
 
@@ -218,21 +218,21 @@ Any action in contradiction to the guidelines set herein may result in disciplin
 
 ### 6.10 Smoking
 
-3BLADES LLC provides a smoke-free environment for its employees, customers, and visitors. Smoking is prohibited throughout the workplace. We have adopted this policy because we have a sincere interest in the health of our employees and in maintaining pleasant working conditions.
+IllumiDesk LLC provides a smoke-free environment for its employees, customers, and visitors. Smoking is prohibited throughout the workplace. We have adopted this policy because we have a sincere interest in the health of our employees and in maintaining pleasant working conditions.
 
 ### 6.11 Visitors in the Workplace
 
-Alhtough sign in policies are enforced the Atlanta Tech Village, to ensure the safety and security of 3BLADES LLC and its employees, only authorized visitors are permitted in Company office 305.
+Although sign in policies are enforced the Atlanta Tech Village, to ensure the safety and security of IllumiDesk LLC and its employees, only authorized visitors are permitted in Company office 305.
 
-All visitors must enter through the main reception area and sign in and out at the front desk. All visitors are also required to wear a “visitor” badge while on 3BLADES LLC premises. Authorized visitors will be escorted to their destination and must be accompanied by a representative of the Company at all times.
+All visitors must enter through the main reception area and sign in and out at the front desk. All visitors are also required to wear a “visitor” badge while on IllumiDesk LLC premises. Authorized visitors will be escorted to their destination and must be accompanied by a representative of the Company at all times.
 
 ### 6.12 Computer, Email & Internet Usage
 
-Computers, email, and the Internet allow 3BLADES LLC employees to be more productive. However, it is important that all employees use good business judgment when using 3BLADES LLC’s electronic communications systems \(ECS\).
+Computers, email, and the Internet allow IllumiDesk LLC employees to be more productive. However, it is important that all employees use good business judgment when using IllumiDesk LLC’s electronic communications systems \(ECS\).
 
 Standards of Conduct and ECS Standards of Conduct and ECS
 
-3BLADES LLC strives to maintain a workplace free of discrimination and harassment. Therefore, 3BLADES LLC prohibits the use of the Company’s ECS for bullying, harassing, discriminating, or engaging in other unlawful misconduct, in
+IllumiDesk LLC strives to maintain a workplace free of discrimination and harassment. Therefore, IllumiDesk LLC prohibits the use of the Company’s ECS for bullying, harassing, discriminating, or engaging in other unlawful misconduct, in
 
 violation of the Company’s policy against discrimination and harassment.
 
@@ -240,7 +240,7 @@ Copyright and other Intellectual Property Copyright and other Intellectual Prope
 
 Respect all copyright and other intellectual property laws. For the Company's protection as well as your own, it is critical that you show proper respect for the laws governing copyright, fair use of copyrighted material owned by others, trademarks and other intellectual property, including the Company's own copyrights, trademarks and brands. Employees are also responsible for ensuring that, when sending any material over the Internet, they have the appropriate distribution rights.
 
-3BLADES LLC purchases and licenses the use of various computer software for business purposes and does not own the copyright to this software or its related documentation. Unless authorized by the software developer, 3BLADES LLC does not have the right to reproduce such software for use on more than one computer. Employees may only use software according to the software license agreement. 3BLADES LLC prohibits the illegal duplication of software and its related documentation.
+IllumiDesk LLC purchases and licenses the use of various computer software for business purposes and does not own the copyright to this software or its related documentation. Unless authorized by the software developer, IllumiDesk LLC does not have the right to reproduce such software for use on more than one computer. Employees may only use software according to the software license agreement. IllumiDesk LLC prohibits the illegal duplication of software and its related documentation.
 
 ECS Guidelines ECS Guidelines
 
@@ -268,11 +268,11 @@ Using the Internet for gambling or any illegal activities.
 
 Sending or posting messages that disparage another organization's products or services.
 
-Passing off personal views as representing those of 3BLADES LLC.
+Passing off personal views as representing those of IllumiDesk LLC.
 
 Privacy and Monitoring Privacy and Monitoring
 
-Computer hardware, software, email, Internet connections, and all other computer, data storage or ECS provided by 3BLADES LLC are the property of 3BLADES LLC. Employees have no right of personal privacy when using 3BLADES LLC’s ECS. To ensure productivity of employees, compliance with this policy and with all applicable laws, including harassment and anti-discrimination laws, computer, email and Internet usage may be monitored.
+Computer hardware, software, email, Internet connections, and all other computer, data storage or ECS provided by IllumiDesk LLC are the property of IllumiDesk LLC. Employees have no right of personal privacy when using IllumiDesk  LLC’s ECS. To ensure productivity of employees, compliance with this policy and with all applicable laws, including harassment and anti-discrimination laws, computer, email and Internet usage may be monitored.
 
 This policy is not intended to restrict an employee’s right to discuss, or act together to improve, wages, benefits and working conditions with co-workers or in any way restrict employees’ rights under the National Labor Relations Act.
 
@@ -280,5 +280,5 @@ Violations of this policy may result in disciplinary action, up to and including
 
 ### 6.13 Company Supplies
 
-Only authorized persons may purchase supplies in the name of 3BLADES LLC. No employee whose regular duties do not include purchasing shall incur any expense on behalf of 3BLADES LLC or bind 3BLADES LLC by any promise or representation without express written approval.
+Only authorized persons may purchase supplies in the name of IllumiDesk  LLC. No employee whose regular duties do not include purchasing shall incur any expense on behalf of IllumiDesk LLC or bind IllumiDesk  LLC by any promise or representation without express written approval.
 
