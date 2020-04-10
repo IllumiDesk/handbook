@@ -30,9 +30,7 @@ It is the policy of IllumiDesk LLC to maintain a harmonious workplace environmen
 
 Employees are encouraged to raise concerns with their supervisors. If not resolved at this level, an employee may submit, in writing, a signed grievance to the Human Resources Representative.
 
-After receiving a written grievance, IllumiDesk LLC may hold a meeting with the Page 7 of 45
-
-employee, the immediate supervisor, and any other individuals who may assist in the investigation or resolution of the issue. All discussions related to the grievance will be limited to those involved with, and who can assist with, resolving the issue.
+After receiving a written grievance, IllumiDesk LLC may hold a meeting with the employee, the immediate supervisor, and any other individuals who may assist in the investigation or resolution of the issue. All discussions related to the grievance will be limited to those involved with, and who can assist with, resolving the issue.
 
 Complaints involving alleged discriminatory practices shall be processed in accordance with IllumiDesk LLC's Sexual and other Unlawful Harassment Policy.
 
@@ -58,25 +56,18 @@ All employees will be judged by the same performance standards and will be subje
 
 This policy is designed to protect employees and address IllumiDesk LLC's commitment to integrity and ethical behavior. In accordance with anti-retaliation and whistleblower protection regulations, IllumiDesk LLC will not tolerate any retaliation against an employee who:
 
-Makes a good faith complaint, or threatens to make a good faith complaint, regarding the suspected Company or employee violations of the law, including discriminatory or other unfair employment practices;
-
-Makes a good faith complaint, or threatens to make a good faith complaint, regarding accounting, internal accounting controls, or auditing matters that may lead to incorrect, or misrepresentations in, financial accounting;
-
-Makes a good faith report, or threatens to make a good faith report, of a violation that endangers the health or safety of an employee, patient, client or customer, environment or general public;
-
-Objects to, or refuses to participate in, any activity, policy or practice, which the employee reasonably believes is a violation of the law;
-
-Provides information to assist in an investigation regarding violations of the law; oror
-
-Files, testifies, participates or assists in a proceeding, action or hearing in relation to alleged violations of the law.
+* Makes a good faith complaint, or threatens to make a good faith complaint, regarding the suspected Company or employee violations of the law, including discriminatory or other unfair employment practices;
+* Makes a good faith complaint, or threatens to make a good faith complaint, regarding accounting, internal accounting controls, or auditing matters that may lead to incorrect, or misrepresentations in, financial accounting;
+* Makes a good faith report, or threatens to make a good faith report, of a violation that endangers the health or safety of an employee, patient, client or customer, environment or general public;
+* Objects to, or refuses to participate in, any activity, policy or practice, which the employee reasonably believes is a violation of the law;
+* Provides information to assist in an investigation regarding violations of the law; or
+* Files, testifies, participates or assists in a proceeding, action or hearing in relation to alleged violations of the law.
 
 Retaliation is defined as any adverse employment action against an employee, including, but not limited to, refusal to hire, failure to promote, demotion, suspension, harassment, denial of training opportunities, termination, or discrimination in any manner in the terms and conditions of employment.
 
 Anyone found to have engaged in retaliation or in violation of law, policy or practice will be subject to discipline, up to and including termination of employment. Employees who knowingly make a false report of a violation will be subject to disciplinary action, up to and including termination.
 
-Employees who wish to report a violation should contact their supervisor or Greg
-
-Werner directly. Employees should also review their state and local requirements for any additional reporting guidelines.
+Employees who wish to report a violation should contact their supervisor or the CEO directly. Employees should also review their state and local requirements for any additional reporting guidelines.
 
 IllumiDesk LLC will promptly and thoroughly investigate and, if necessary, address any reported violation.
 
