@@ -2,15 +2,15 @@
 
 ### 2.1 At-Will Employment
 
-Employment with IllumiDesk LLC is "at-will." This means employees are free to resign at any time, with or without cause, and IllumiDesk LLC may terminate the employment relationship at any time, with or without cause or advance notice. As an at-will employee, it is not guaranteed, in any manner, that you will be employed with IllumiDesk LLC for any set period of time.
+Employment with IllumiDesk LLC is "at-will." This means employees are free to resign at any time, with or without cause or advance notice. As an at-will employee, it is not guaranteed, in any manner, that you will be employed with IllumiDesk LLC for any set period of time.
 
 The policies set forth in this employee handbook are the policies that are in effect at the time of publication. They may be amended, modified, or terminated at any time by IllumiDesk LLC, except for the policy on at-will employment, which may be modified only by a signed, written agreement between the President and the employee at issue. Nothing in this handbook may be construed as creating a promise of future benefits or a binding contract between IllumiDesk LLC and any of its employees.
 
 ### 2.2 Immigration Law Compliance
 
-IllumiDesk LLC is committed to employing only United States citizens and aliens who are authorized to work in the United States.
+If IllumiDesk LLC is committed to employing citizens and aliens who are authorized to work in their country of residence.
 
-In compliance with the Immigration Reform and Control Act of 1986, as amended, each new employee, as a condition of employment, must complete the Employment Eligibility Verification Form I-9 and present documentation establishing identity and employment eligibility. Former employees who are rehired must also complete the form if they have not completed an I-9 with IllumiDesk LLC within the past three years, or if their previous I-9 is no longer retained or valid.
+For United States residents, in compliance with the Immigration Reform and Control Act of 1986, as amended, each new employee, as a condition of employment, must complete the Employment Eligibility Verification Form I-9 and present documentation establishing identity and employment eligibility. Former employees who are rehired must also complete the form if they have not completed an I-9 with IllumiDesk LLC within the past three years, or if their previous I-9 is no longer retained or valid.
 
 IllumiDesk LLC may participate in the federal government's electronic employment verification system, known as “E-Verify.” Pursuant to E-Verify, IllumiDesk LLC provides the Social Security Administration, and if necessary, the Department of Homeland Security with information from each new employee's Form I-9 to confirm work authorization.
 
@@ -40,7 +40,7 @@ IllumiDesk LLC assures that all employees filing a grievance or complaint can do
 
 Effective and ongoing communication within IllumiDesk LLC is essential. As such, the Company maintains systems through which important information can be shared among employees and management.
 
-Bulletin boards are posted in designated areas of the workplace to display important information and announcements. In addition, IllumiDesk LLC uses the Intranet and email to facilitate communication and share access to documents. For information on appropriate email and Internet usage, employees may refer to the Computer, Email, and Internet Usage policy.
+Where applicable, bulletin boards are posted in designated areas of the workplace to display important information and announcements. In addition, IllumiDesk LLC uses the internal communications tools such as Slack, and email to facilitate communication and share access to documents. For information on appropriate email and Internet usage, employees may refer to the Computer, Email, and Internet Usage policy.
 
 All employees are responsible for checking internal communications on a frequent and regular basis. Employees should consult their supervisor with any questions or concerns on information disseminated.
 
