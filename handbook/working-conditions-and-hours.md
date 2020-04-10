@@ -24,41 +24,35 @@ IllumiDesk LLC is committed to providing a clean, safe, and healthful work envir
 
 requires the continuous cooperation of all employees. IllumiDesk LLC and all employees must comply with all occupational safety and health standards and regulations established by the Occupational Safety and Health Act and state and local regulations. In addition, all employees are expected to obey safety rules and exercise caution and common sense in all work activities.
 
-Complaint and Reporting Procedure: Complaint and Reporting Procedure:
+### 4.5 Complaint and Reporting Procedure
 
-Employees should immediately report any unsafe conditions to their supervisor without fear of reprisal. In the case of an accident that results in injury, regardless of how seemingly insignificant the injury may appear, employees must notify their supervisor. If you believe it would be inappropriate to report the matter to your supervisor, you can report it directly to:
-
-Greg Werner
-
-3423 Piedmont Rd NE, Atlanta GA 30305
-
-4048042136
+Employees should immediately report any unsafe conditions to their supervisor without fear of reprisal. In the case of an accident that results in injury, regardless of how seemingly insignificant the injury may appear, employees must notify their supervisor. If you believe it would be inappropriate to report the matter to your supervisor, you can report it directly to the CEO.
 
 Employees who violate safety standards, cause hazardous or dangerous situations, or fail to report or, where appropriate, remedy such situations may be subject to disciplinary action, up to and including termination of employment.
 
-Retaliation Prohibited: Retaliation Prohibited:
+### 4.6 Retaliation Prohibited
 
 IllumiDesk LLC expressly prohibits retaliation against anyone who reports unsafe working conditions or work-related accidents, injuries or illnesses. Any form of retaliation will be subject to disciplinary action, up to and including termination of employment.
 
 Questions or concerns regarding this policy should be directed to your supervisor or the Human Resources Representative.
 
-### 4.5 Security
+### 4.7 Security
 
 The purpose of IllumiDesk LLC's security policy is to protect Company assets and to maintain a safe working environment for all employees.
 
-Facility Access: 
+### 4.8 Facility Access
 
 All regular IllumiDesk LLC employees will be issued a key to gain access to IllumiDesk LLC facilities. Employees who are issued keys are responsible for their safekeeping. All lost or stolen keys must be reported to your supervisor as soon as possible.
 
 Upon separation from IllumiDesk LLC, and at any other time upon IllumiDesk LLC's request, all keys must be returned to your supervisor.
 
-Closing Procedures: Closing Procedures:
+### 4.9 Closing Procedures
 
 The last employee, or a designated employee, who leaves the office at the end of the business day assumes the responsibility to ensure that: all doors are securely locked; the alarm system is armed; thermostats are set on appropriate evening and/or weekend setting; and all appliances and lights are turned off with the exception of the lights normally left on for security purposes.
 
 Employees are permitted on company property after hours without prior written authorization from the Human Resources Representative.
 
-### 4.6 Meal & Break Periods
+### 4.10 Meal & Break Periods
 
 In accordance with state and local laws, non-exempt employees will be provided with meal and break periods. Break periods of less than 20 minutes will be paid. Break periods lasting longer than 20 minutes will be unpaid.
 
@@ -66,7 +60,7 @@ Non-exempt employees must be fully relieved of their job responsibilities and ar
 
 IllumiDesk LLC will schedule meal and break periods in order to accommodate Company operating requirements.
 
-### 4.7 Break Time for Nursing Mothers
+### 4.11 Break Time for Nursing Mothers
 
 IllumiDesk LLC accommodates employees who wish to express breast milk during the workday by providing reasonable break times to do so. The Company will provide a designated room, other than a bathroom, that is shielded from view, free from intrusion from coworkers and the public and is in compliance with all other applicable laws for this purpose.
 
