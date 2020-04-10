@@ -6,7 +6,7 @@ The contents of this handbook serve only as guidelines and supersede The content
 
 The Company has the right, with or without notice, in an individual The Company has the right, with or without notice, in an individual case or generally, to change any of the policies in this handbook, or case or generally, to change any of the policies in this handbook, or any of its guidelines, policies, practices, working conditions or any of its guidelines, policies, practices, working conditions or benefits at any time. No one is authorized to provide any employee benefits at any time. No one is authorized to provide any employee with an employment contract or special arrangement concerning terms with an employment contract or special arrangement concerning terms or conditions of employment unless the contract or arrangement is in or conditions of employment unless the contract or arrangement is in writing and signed by the president and the employee. writing and signed by the president and the employee.
 
-### 1.3 Changes in Policy
+### 1.2 Changes in Policy
 
 Change at IllumiDesk LLC is inevitable. Therefore, we expressly reserve the right to interpret, modify, suspend, cancel, or dispute, with or without notice, all or any part of our policies, procedures, and benefits at any time with or without prior notice. Changes will be effective on the dates determined by IllumiDesk LLC, and after those dates all superseded policies will be null and void.
 
