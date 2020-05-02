@@ -1,14 +1,14 @@
 # Table of contents
 
-* [IllumiDesk LLC](README.md)
+* [IllumiDesk Team Handbook](README.md)
 
-## IllumiDesk LLC Handbook <a id="handbook"></a>
+## People Group
 
-* [Introduction](handbook/introduction.md)
-* [General Employment](handbook/general-employment.md)
-* [Employment Status & Recordkeeping](handbook/employment-status-and-recordkeeping.md)
-* [Working Conditions & Hours](handbook/working-conditions-and-hours.md)
-* [Employee Benefits](handbook/employee-benefits.md)
-* [Employee Conduct](handbook/employee-conduct.md)
-* [Timekeeping & Payroll](handbook/timekeeping-and-payroll.md)
+* [Introduction](people-group/introduction.md)
+* [General Employment](people-group/general-employment.md)
+* [Employment Status & Recordkeeping](people-group/employment-status-and-recordkeeping.md)
+* [Working Conditions & Hours](people-group/working-conditions-and-hours.md)
+* [Employee Benefits](people-group/employee-benefits.md)
+* [Employee Conduct](people-group/employee-conduct.md)
+* [Timekeeping & Payroll](people-group/timekeeping-and-payroll.md)
 
