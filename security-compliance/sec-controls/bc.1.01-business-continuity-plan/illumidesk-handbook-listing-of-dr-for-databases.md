@@ -34,7 +34,7 @@ We currently aim at a `DB-DR-TTR` of 8 hours to recover from a backup. We're _no
 
 Another option is to have a replica in place that always lags a few hours behind the production cluster. We call this a _delayed replica_: It is a normal streaming replica but delayed by a few hours. In case disaster strikes, it can be used to quickly perform PITR from the WAL archive. This is much faster than a full restore, because we don't have to fully retrieve a full backup from S3. Additionally, with daily snapshots the latest snapshot is 24 hours \(plus the time it took to capture the snapshot\) old worst-case. A delayed replica is constantly kept at a certain offset with respect to the production cluster and hence does not need to replay too many hours worth of data.
 
-* Production host: `postgres-dr-delayed-01-db-gprd.c.gitlab-production.internal`
+* Production host: `postgres-dr-delayed-01-db-gprd.c.`IllumiDesk`-production.internal`
 * Chef role: `gprd-base-db-postgres-delayed`
 
 **Archive Replica**
@@ -45,6 +45,6 @@ The restore testing pipeline also performs PITR from the WAL archive and thus al
 
 In that sense, there is overlap between functionality of archive and delayed replicas and the restore testing. Together it gives us high confidence in our cold backup and PITR recovery strategy.
 
-* Production host: `postgres-dr-archive-01-db-gprd.c.gitlab-production.internal`
+* Production host: `postgres-dr-archive-01-db-gprd.c.`IllumiDesk`-production.internal`
 * Chef role: `gprd-base-db-postgres-archive`
 
