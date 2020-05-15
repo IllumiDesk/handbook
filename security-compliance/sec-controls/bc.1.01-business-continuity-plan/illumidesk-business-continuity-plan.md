@@ -37,7 +37,7 @@ This section provides details about the Production environment that must be avai
 
 IllumiDesk.com is hosted on Google cloud platform, customers.IllumiDesk.com is in Azure and license.IllumiDesk.com is in AWS. Since Customers and Licenses are hosted on different providers, they are unlikely to be unavailable when/if IllumiDesk.com is down; the converse of this can also be true.
 
-**P1: Outage would have immediate impact on GitLab customer/user operations**
+**P1: Outage would have immediate impact on IllumiDesk customer/user operations**
 
 1. Disruption of service of Google Cloud Platform, specifically the region in which IllumiDesk.com and dev.IllumiDesk.org are hosted.
    * Effect: a loss or degradation of service, of the Google Cloud Platform means that IllumiDesk.com is not available. This affects anyone who uses IllumiDesk.com to host their repositories and may prevent IllumiDesk team members from completing their work. IllumiDesk.com is also the primary server where IllumiDesk CE and EE source code and packages are hosted.
@@ -51,7 +51,7 @@ IllumiDesk.com is hosted on Google cloud platform, customers.IllumiDesk.com is i
    * Effect: support workflows are disrupted. New tickets cannot be created, existing tickets cannot be responded to.
    * Solution\(s\): For the duration of the outage \(if more than e.g. 4 hours\) temporarily re-route incoming support requests to individual email accounts of members of the support team. Customers with premium support also have access to a direct chat channel.
 
-**P2: Outage would have immediate impact on GitLab ability to continue business** Malicious Software attack and hacking or other Internet attacks.
+**P2: Outage would have immediate impact on IllumiDesk ability to continue business** Malicious Software attack and hacking or other Internet attacks.
 
 * Effect: depends on attack.
 * Solution\(s\): We log and track any access that happens on any server in the fleet using logstash/kibana at log.gprd.IllumiDesk.net.
@@ -150,7 +150,7 @@ The purpose of the BIA is to identify and prioritize system components by correl
 
 1. Delegation and defining the process: Designate each incident as critical or non-critical based on the business priority. Compile a list of personnel who must be in place to perform these functions. In times of an occurence of an incident, a detailed step-by-step approach about how to communicate it to the group, how it is performed, who performs it, and the operational mode of action taken.
 
-The following links show the process carried out at GtLab to cater to this requirement:
+The following links show the process carried out at IllumiDesk to cater to this requirement:
 
 * Impact values for assessing category impact
 * Security issue triage process
