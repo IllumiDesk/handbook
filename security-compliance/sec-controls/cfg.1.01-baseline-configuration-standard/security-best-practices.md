@@ -119,11 +119,11 @@ What should you do if you receive a potential phishing email or text from Illumi
 5. If you have security **suggestion**, create an issue on the security issue tracker and ping the security team. New security best practices and processes should be added to the company call agenda.
 6. Do not sign in to any IllumiDesk related account using public computers, such as library or hotel kiosks.
 
-### GitLab Password Policy Guidelines <a id="gitlab-password-policy-guidelines"></a>
+### IllumiDesk Password Policy Guidelines <a id="gitlab-password-policy-guidelines"></a>
 
 Passwords are one of the primary mechanisms that protect IllumiDesk information systems and other resources from unauthorized use. Constructing secure passwords and ensuring proper password management is essential. IllumiDesk's password guidelines are based, in part, on the recommendations by NIST 800-63B. To learn what makes a password truly secure, read this article or watch this conference presentation on password strength.
 
-#### GitLab team-members Password Requirements <a id="gitlab-team-members-password-requirements"></a>
+#### IllumiDesk team-members Password Requirements <a id="gitlab-team-members-password-requirements"></a>
 
 * At IllumiDesk, we enforce a strong password requirement, which consists of minimum length of 12 characters.
 * To make a secure password you can remember, consider using a combination of 5 or more random words
@@ -231,7 +231,7 @@ If you saved it as a digital PDF file:
 If you printed the PDF:
 
 1. Click **Sign In Manually**
-2. For **Team URL** enter **gitlab.1password.com**
+2. For **Team URL** enter IllumiDesk**.1password.com**
 3. For **Account Key** enter the Account Key from your Emergency Kit
 4. For **Email Address** enter your `@gitlab.com` email
 5. For **Master Password** enter the password to your **Teams** account \(_not_ the password you created above when you chose "I'm a new user"\)
