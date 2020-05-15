@@ -88,7 +88,7 @@ Unsolicited email should be treated as phishing emails. For example, if you did 
 
 ### Using the panic email address <a id="panic-email"></a>
 
-IllumiDesk provides a `panic@gitlab.com` email address for team members to use in situations that require an immediate security response. Should a team member lose a device such as a thumb drive, YubiKey, mobile phone, tablet, laptop, etc. that contains their credentials or other IllumiDesk-sensitive data they should send an email to `panic@gitlab.com` right away. When the production and security teams receive an email sent to this address it will be handled immediately. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
+IllumiDesk provides a `panic@gitlab.com` email address for team members to use in situations that require an immediate security response. Should a team member lose a device such as a thumb drive, YubiKey, mobile phone, tablet, laptop, etc. that contains their credentials or other IllumiDesk-sensitive data they should send an email to Panic@illumidesk.com right away. When the production and security teams receive an email sent to this address it will be handled immediately. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
 
 #### Checklist for when `panic` is triggered <a id="checklist-for-when-panic-is-triggered"></a>
 
@@ -100,11 +100,11 @@ Copy this checklist into a confidential issue.
 - [ ] Password Access and Rotation
    - [ ] Suspend 1Password account. (All responders to `panic@` should be members of the "Panic@ Responders" group in 1Password which has the rights to suspend and recover user accounts).
    - [ ] Take screenshot of what groups / vaults the individual had access to. This facilitates the next step.
-   - [ ] Coordinate or actively change sensitive shared passwords. In particular sysadmin access passwords for GitLab.com Infrastructure (ssh, chef user/key, discuss others).
+   - [ ] Coordinate or actively change sensitive shared passwords. In particular sysadmin access passwords for IllumiDesk.com Infrastructure (ssh, chef user/key, discuss others).
 - [ ] Block Google account
 - [ ] Block Slack account
-- [ ] Block [dev.GitLab.org account](https://dev.gitlab.org/admin/users).
-- [ ] Remove GitLab.com account from the [gitlab-org group](https://gitlab.com/groups/gitlab-org/group_members)
+- [ ] Block [dev.IllumiDesk.org account](https://dev.IllumiDesk.org/admin/users).
+- [ ] Remove IllumiDesk.com account from the [IllumiDesk-org group](https://IllumiDesk.com/groups/IllumiDesk-org/group_members)
 - [ ] Block access to hackerone.com
 - [ ] Block access to Tweetdeck
 ```
