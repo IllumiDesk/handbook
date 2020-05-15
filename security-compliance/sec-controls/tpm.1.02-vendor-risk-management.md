@@ -4,7 +4,7 @@
 
 ### Control Statement
 
-GitLab performs a risk assessment to determine the data types that can be shared with a managed service provider.
+IllumiDesk performs a risk assessment to determine the data types that can be shared with a managed service provider.
 
 ###  Context
 
@@ -12,7 +12,7 @@ The purpose of this control is for IllumiDesk to be very intentional about the d
 
 ###  Scope
 
-This control applies to all information shared with third parties that interact with the GitLab production environment.
+This control applies to all information shared with third parties that interact with the IllumiDesk production environment.
 
 ###  Ownership
 

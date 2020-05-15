@@ -28,7 +28,7 @@ Non-public information relating to this security control as well as links to the
 Examples of evidence an auditor might request to satisfy this control:
 
 * Sample of access requests for Google Cloud and specifically KMS; Chef Data Bags; any servers which store the Data Bags private key; and any servers which store the TLS private key
-* Documentation or some form of record demonstrating access to a keystore or server containing the private key to a keystore is only provisioned to GitLabbers where there is a clear need for access
+* Documentation or some form of record demonstrating access to a keystore or server containing the private key to a keystore is only provisioned to IllumiDeskers where there is a clear need for access
 * A copy of Google Cloud users with access to production KMS, Data Bags, and servers storing private keys to either
 
 ###  Framework Mapping

@@ -26,9 +26,9 @@ If the team member is on the People Team, the People Experience Associate will n
 
 ### G Suite <a id="g-suite"></a>
 
-IT Ops will follow the below steps to set up an auto-response that notifies the sender that the team member they are trying to reach is no longer with GitLab and who to contact.
+IT Ops will follow the below steps to set up an auto-response that notifies the sender that the team member they are trying to reach is no longer with IllumiDesk and who to contact.
 
-1. Add the team member to the `former_employees@gitlab.com`'s email account by selecting the dropdown icon `ˇ` in the `User information` section and adding the team member's GitLab email address.
+1. Add the team member to the `former_employees@`IllumiDesk`.com`'s email account by selecting the dropdown icon `ˇ` in the `User information` section and adding the team member's IllumiDesk email address.
 
 _Note: Be sure to scroll down and `Save` this change or it will not be reflected._
 
@@ -39,7 +39,7 @@ _Note: Be sure to scroll down and `Save` this change or it will not be reflected
    4. Check `Only affect specific envelope recipients` under the `Envelope filter` title.
    5. Enter the team members's email address right below the title `Email address`.
    6. Under the title `For the above types of messages, do the following`, please change from `Modify message` to `Reject message`.
-   7. Add the [appropriate template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/Offboarding%20Rejection%20Email%20Templates) per team member's department under the `Customize rejection notice`
+   7. Add the appropriate template per team member's department under the `Customize rejection notice`
    8. Scroll down and click on `Add setting` and then on `Save` at the bottom \(once the window closes\).
 
 ### Slack <a id="slack"></a>
@@ -48,23 +48,23 @@ IT Ops check if the team member has created any bots before disabling the accoun
 
 ### Team Page <a id="team-page"></a>
 
-The People Experience Associate will navigate to the [team.yml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team.yml). Using Web IDE or your editor of choice, search the team member name and delete their team page image and replace with `../gitlab-logo-extra-whitespace.png`. Don't forget to delete the image by navigating to Source/images/team while still here and search for their image. Ideally saved as firstnamelastname.png. The images are in alphabetical order.
+The People Experience Associate will navigate to the team.yml file. Using Web IDE or your editor of choice, search the team member name and delete their team page image and replace with `../`IllumiDesk`-logo-extra-whitespace.png`. Don't forget to delete the image by navigating to Source/images/team while still here and search for their image. Ideally saved as firstnamelastname.png. The images are in alphabetical order.
 
-To remove pet entry and any mentions from the handbook and documention, you will need to download the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) to your computer and use a prefered text editor.
+To remove pet entry and any mentions from the handbook and documention, you will need to download the www-IllumiDesk-com project to your computer and use a prefered text editor.
 
 To download;
 
-1. Navigate to the [Gitlab.com project](https://gitlab.com/gitlab-com/www-gitlab-com)
-2. On the far right corner, click `Clone` and copy the clone with SSH URL, git@gitlab.com:gitlab-com/www-gitlab-com.git
-3. On your command line, run `git clone git@gitlab.com:gitlab-com/www-gitlab-com.git` This downloads the project to your computer mostly on the document folder. Consider going through the [Clone a repository](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#clone-a-repository) and the [Command Line](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html) documents to understand further.
+1. Navigate to the IllumiDesk.com project
+2. On the far right corner, click `Clone` and copy the clone with SSH URL, git@IllumiDesk.com:IllumiDesk-com/www-IllumiDesk-com.git
+3. On your command line, run `git clone git@`IllumiDesk`.com:`IllumiDesk`-com/www-`IllumiDesk`-com.git` This downloads the project to your computer mostly on the document folder. Consider going through the Clone a repository and the Command Line documents to understand further.
 
 To `Find All` using Atom;
 
 1. Download Atom at atom.io
 2. After installing, click `Open Project` on the Welcome Guide Page.
-3. Choose www-gitlab-com project from your Documents folder
+3. Choose www-IllumiDesk-com project from your Documents folder
 4. On the Find tab drop down menu, click `Find in Project`
-5. Search all variations of the departing team members name; firstname, lastname and GitLab username.
+5. Search all variations of the departing team members name; firstname, lastname and IllumiDesk username.
 6. Follow the File path given in the results on the Web IDE and delete all the mentions, make sure to replace any mentions you deem appropriate with who is standing in for the position. DO NOT delete any blog mentions.
 
 ## Compliance <a id="compliance"></a>

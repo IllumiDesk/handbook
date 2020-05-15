@@ -8,7 +8,7 @@ Network traffic to and from untrusted networks passes through a policy enforceme
 
 ### Context
 
-Effective network traffic policies help minimize the risk of network-based attacks, including denial of service attacks and malicious data exfiltration. By requiring ingress and egress rules be mapped to security requirements and business justifications, we can limit the number of unnecessarily open ports to protect customer, GitLab team-member, and partner data.
+Effective network traffic policies help minimize the risk of network-based attacks, including denial of service attacks and malicious data exfiltration. By requiring ingress and egress rules be mapped to security requirements and business justifications, we can limit the number of unnecessarily open ports to protect customer, IllumiDesk team-member, and partner data.
 
 ### Scope
 

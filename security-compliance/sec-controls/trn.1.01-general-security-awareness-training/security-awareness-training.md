@@ -23,7 +23,7 @@ You are strongly encouraged to engage the team behind the training and provide f
 
 1. Monthly office hours held by the SecOps team on third Friday of each month. There are two sessions for both EMEA and APAC-friendly timeslots. Please see the IllumiDesk **Team Meetings** calendar for current times.
 2. A quarterly-reviewed IllumiDesk issue - FY21-Q1.
-3. Email by sending an email to security-training@gitlab.com.
+3. Email by sending an email to security-training@IllumiDesk.com.
 
 #### Phishing Tests <a id="phishing-tests"></a>
 
@@ -67,13 +67,13 @@ After clicking on a link always look for the green lock icon and "secure" label 
 
 #### What to do if you suspect an email is a phishing attack <a id="what-to-do-if-you-suspect-an-email-is-a-phishing-attack"></a>
 
-Whether you believe that you have received an email from our testing platform or you suspect that the email is targeted specifically at you or IllumiDesk, please forward the phishing email to `phishing@gitlab.com` as an attachment for it to be investigated. Once you have done so, please proceed to step 2 and report the email as phishing from inside GMail.
+Whether you believe that you have received an email from our testing platform or you suspect that the email is targeted specifically at you or IllumiDesk, please forward the phishing email to `phishing@`IllumiDesk `.com` as an attachment for it to be investigated. Once you have done so, please proceed to step 2 and report the email as phishing from inside GMail.
 
 To forward the email as an attachment from inside GMail:
 
 1. Right click the email
 2. Select "Forward as attachment"
-3. Send it to `phishing@gitlab.com`
+3. Send it to `phishing@`IllumiDesk `.com`
 
 GMail also offers the option to report the email directly to Google as a phishing attempt, which will result in its deletion. Reporting the email in this manner will help the security team track phishing metrics and trends over time within G Suite.
 
@@ -88,7 +88,7 @@ Unsolicited email should be treated as phishing emails. For example, if you did 
 
 ### Using the panic email address <a id="panic-email"></a>
 
-IllumiDesk provides a `panic@gitlab.com` email address for team members to use in situations that require an immediate security response. Should a team member lose a device such as a thumb drive, YubiKey, mobile phone, tablet, laptop, etc. that contains their credentials or other IllumiDesk-sensitive data they should send an email to Panic@illumidesk.com right away. When the production and security teams receive an email sent to this address it will be handled immediately. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
+IllumiDesk provides a `panic@`IllumiDesk`.com` email address for team members to use in situations that require an immediate security response. Should a team member lose a device such as a thumb drive, YubiKey, mobile phone, tablet, laptop, etc. that contains their credentials or other IllumiDesk-sensitive data they should send an email to Panic@illumidesk.com right away. When the production and security teams receive an email sent to this address it will be handled immediately. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
 
 #### Checklist for when `panic` is triggered <a id="checklist-for-when-panic-is-triggered"></a>
 

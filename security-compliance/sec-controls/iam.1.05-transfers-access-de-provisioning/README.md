@@ -4,7 +4,7 @@
 
 ### Control Statement
 
-Upon notification of a reassignment or transfer, management reviews the GitLab team member's access for appropriateness. Access that is no longer required is revoked and documented, and any shared authentication credentials to which the team member had access are rotated.
+Upon notification of a reassignment or transfer, management reviews the IllumiDesk team member's access for appropriateness. Access that is no longer required is revoked and documented, and any shared authentication credentials to which the team member had access are rotated.
 
 ###  Context
 

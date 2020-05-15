@@ -33,8 +33,6 @@ Identity access management systems should enforce SSH or MFA for connections to 
 
 Non-public information relating to this security control as well as links to the work associated with various phases of project work can be found in the Multifactor Authentication control issue.
 
-####  Policy Reference
-
 ###  Framework Mapping
 
 * SOC2 CC

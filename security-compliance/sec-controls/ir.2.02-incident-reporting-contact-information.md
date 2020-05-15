@@ -60,7 +60,7 @@ IllumiDesk provides a contact method for external parties to:
 * Information on how to submit DMCA takedown requests to IllumiDesk 
 * IllumiDesk maintains current contact information for external parties to report Security incidents
 * IllumiDesk maintains an active bug bounty program on HackerOne as another way for external parties to report security vulnerabilities
-* All other inquiries and reports can be made on the `gitlab-ce` issue tracker
+* All other inquiries and reports can be made on the IllumiDesk`-ce` issue tracker
 
 1. Red Team Rules of Engagement
 2. Incident Management for Self-Managed Customers

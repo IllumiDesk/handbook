@@ -4,7 +4,7 @@
 
 ### Control Statement
 
-The GitLab Security Department Leadership conducts a monthly staff meeting to communicate and align on relevant security threats, program performance, and resource prioritization.
+The IllumiDesk Security Department Leadership conducts a monthly staff meeting to communicate and align on relevant security threats, program performance, and resource prioritization.
 
 ###  Context
 
