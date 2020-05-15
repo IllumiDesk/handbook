@@ -1,8 +1,6 @@
-# Incident Management roles and responsibilities
+# Incident Management Roles and Responsibilities
 
-
-
-### Incident Management <a id="incident-management"></a>
+## Incident Management
 
 Incidents are **anomalous conditions** that result in—or may lead to—service degradation or outages. These events require human intervention to avert disruptions or restore service to operational status. Incidents are _always_ given immediate attention.
 
@@ -13,11 +11,11 @@ The goal of incident management is to organize chaos into swift incident resolut
 3. a **root-cause analysis** \(RCA\),
 4. and a post-incident review that assigns a **severity** classification after assessing the impact and scope of the incident.
 
-#### Ownership <a id="ownership"></a>
+## Ownership
 
 There is only ever **one** owner of an incident—and only the owner of the incident can declare an incident resolved. At anytime the incident owner can engage the next role in the hierarchy for support. With the exception of when IllumiDesk.com is not functioning correctly, the incident issue should be assigned to the current owner.
 
-#### Roles and Responsibilities <a id="roles-and-responsibilities"></a>
+## Roles and Responsibilities
 
 It's important to clearly delineate responsibilities during an incident. Quick resolution requires focus and a clear hierarchy for delegation of tasks. Preventing overlaps and ensuring a proper order of operations is vital to mitigation. The responsibilities outlined in the roles below are cascading–**and ownership of the incident passes from one role to the next as those roles are engaged**. Until the next role in the hierarchy engages, the previous role assumes all of the subsequent roles' responsibilities and retains ownership of the incident.
 
@@ -29,7 +27,7 @@ It's important to clearly delineate responsibilities during an incident. Quick r
 
 These definitions imply several on-call rotations for the different roles.
 
-**Engineer on Call \(EOC\) Responsibilities**
+### **Engineer on Call \(EOC\) Responsibilities**
 
 1. **As EOC, your highest priority for the duration of your shift is the stability of IllumiDesk.com.**
 2. The Single Source of Truth \(SSOT\) for who is EOC is the SRE Schedule in Pagerduty.
@@ -54,7 +52,7 @@ These definitions imply several on-call rotations for the different roles.
 9. _Be inquisitive_. _Be vigilant_. If you notice that something doesn't seem right, investigate further.
 10. After the incident is resolved, the EOC should start on performing an incident review \(RCA\) and assign themselves as the initial owner. Feel free to take a breather first, but do not end your work day without starting the RCA.
 
-**Guidlines on Security Incidents**
+## **Guidelines on Security Incidents**
 
 At times, we have a security incident where we may need to take actions to block a certain URL path or part of the application. This list is meant to help the Security Engineer On-Call and EOC decide when to engage help and post to status.io.
 
@@ -69,7 +67,7 @@ In some cases, we may choose not to post to status.io, the following are example
 1. If a partial block of a URL is possible, for example to exclude problematic strings in a path.
 2. If there is no usage of the URL in the last week based on searches in our logs for IllumiDesk.com.
 
-**Incident Manager on Call \(IMOC\) Responsibilities**
+### **Incident Manager on Call \(IMOC\) Responsibilities**
 
 1. The SSOT for who is IMOC is the SRE Managers Schedule in Pagerduty
 2. The IMOC should monitor ongoing incidents and engage with the incident if it escalates to a user-impacting \(S1 or S2\) incident.
@@ -88,7 +86,7 @@ To page the Incident Manager on call you can:
 1. Run a response play
 2. Type `/pd trigger` in the `#production` channel
 
-**Communications Manager on Call \(CMOC\) Responsibilities**
+### **Communications Manager on Call \(CMOC\) Responsibilities**
 
 For serious incidents that require coordinated communications across multiple channels, the IMOC will select a CMOC for the duration of the incident during the incident declaration process.
 
@@ -98,24 +96,24 @@ During an incident, the CMOC will:
 2. Update the status page at regular intervals in accordance with the severity of the incident.
 3. Notify IllumiDesk Community Advocates via Slack using the `@advocates` handle at the start of an incident.
 
-#### Runbooks <a id="runbooks"></a>
+## Runbooks
 
 Runbooks are available for engineers on call. The project README contains links to checklists for each of the above roles.
 
 **In the event of a IllumiDesk.com outage**, a mirror of the runbooks repository is available.
 
-#### Who is the Current EOC? <a id="who-is-the-current-eoc"></a>
+### Who is the Current EOC?
 
 If you don't have a PagerDuty account and need to find out who the current oncall is, there are two ways you can do it:
 
 1. `@sre-oncall` - at mention this usergroup in Slack and it will ping the current oncall.
 2. The chatops bot in the `#production` Slack Channel will tell you this with `/chatops run oncall prod`.
 
-#### Reporting an Incident <a id="reporting-an-incident"></a>
+### Reporting an Incident
 
 If you are a IllumiDesk team member and would like to report an incident/anomaly to EOC and page them in, type `/incident report` in Slack \(e.g `#production`\) and follow the prompts. Please ensure that the severity of the incident warrants paging in the EOC and that you, as the reporter, stay online until EOC has had a chance to come online and get up to speed.
 
-#### Declaring an Incident <a id="declaring-an-incident"></a>
+### Declaring an Incident
 
 **Declare an incident from Slack**
 
@@ -129,7 +127,7 @@ Type `/incident declare` in Slack \(e.g `#production`\) and follow the prompts. 
 
 The capabilities noted with \* are optional and engineer on call can decide which ones to choose depending on severity of the incident.
 
-**Declare an incident manually**
+### **Declare an incident manually**
 
 #### Definition of Outage vs Degraded vs Disruption <a id="definition-of-outage-vs-degraded-vs-disruption"></a>
 
@@ -153,13 +151,10 @@ To check if we are Degraded or Disrupted for IllumiDesk.com, we look at these gr
 3. Git service\(public facing git interactions\)
    * Error Ratio
    * Apdex
-4. GitLab Pages service
+4. IllumiDesk Pages service
    * Error Ratio
    * Apdex
 5. Registry service
-   * Error Ratio
-   * Apdex
-6. Sidekiq
    * Error Ratio
    * Apdex
 
@@ -170,11 +165,11 @@ A Partial Service Disruption is when only part of the IllumiDesk.com services or
 3. high severity bugs affecting a particular feature like Merge Requests
 4. Abuse or degradation on 1 gitaly node affecting a subset of git repos. This would be visible on the Gitaly service metrics
 
-#### Security Incidents <a id="security-incidents"></a>
+## Security Incidents
 
 If an incident may be security related, engage the Security Operations on-call following the Security Incident Response Guide.
 
-### Communication <a id="communication"></a>
+## Communication
 
 Information is an asset to everyone impacted by an incident. Properly managing the flow of information is critical to minimizing surprise and setting expectations. We aim to keep interested stakeholders apprised of developments in a timely fashion so they can plan appropriately.
 
@@ -194,7 +189,7 @@ To that end, we will have: 
 4. regular updates to status.IllumiDesk.com via status.io that disseminates to various media \(e.g. Twitter\)
 5. a dedicated repo for issues related to Production separate from the queue that holds Infrastructure's workload: namely, issues for incidents and changes.
 
-#### Status <a id="status"></a>
+## Status
 
 We manage incident communication using status.io, which updates status.IllumiDesk.com. Incidents in status.io have **state** and **status** and are updated by the incident owner.
 
@@ -217,7 +212,7 @@ Status can be set independent of state. The only time these must align is when a
 | Service Disruption | This is an outage. The IMOC must be engaged. |
 | Security Issue | A security vulnerability has been declared public and the security team has asked to publish it. |
 
-### Severities <a id="severities"></a>
+## Severities
 
 #### Incident Severity <a id="incident-severity"></a>
 
@@ -228,19 +223,19 @@ Status can be set independent of state. The only time these must align is when a
 1. Alerts severities do not necessarily determine incident severities. A single incident can trigger a number of alerts at various severities, but the determination of the incident's severity is driven by the above definitions.
 2. Over time, we aim to automate the determination of an incident's severity through service-level monitoring that can aggregate individual alerts against specific SLOs.
 
-### Near Misses <a id="near-misses"></a>
+## Near Misses
 
 A near miss, "near hit", or "close call" is an unplanned event that has the potential to cause, but does not actually result in an incident.
 
-#### Background <a id="background"></a>
+### Background
 
-In the United States, the Aviation Safety Reporting System has been collecting reports of close calls since 1976. Due to near miss observations and other technological improvements, the rate of fatal accidents has dropped about 65 percent. source
+In the United States, the Aviation Safety Reporting System has been collecting reports of close calls since 1976. Due to near miss observations and other technological improvements, the rate of fatal accidents has dropped about 65 percent.
 
 As John Allspaw states:
 
 > Near misses are like a vaccine. They help the company better defend against more serious errors in the future, without harming anyone or anything in the process.
 
-#### Handling Near Misses <a id="handling-near-misses"></a>
+### Handling Near Misses
 
 When a near miss occurs, we should treat it in a similar manner to a normal incident.
 

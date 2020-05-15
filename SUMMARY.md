@@ -98,7 +98,7 @@
   * [SG.1.01 - Policy and Standard Review](security-compliance/sec-controls/sg.1.01-policy-and-standard-review.md)
   * [SG.2.01 - Information Security Program Content](security-compliance/sec-controls/sg.2.01-information-security-program-content.md)
   * [SG.5.03 - Security Roles and Responsibilities](security-compliance/sec-controls/sg.5.03-security-roles-and-responsibilities/README.md)
-    * [Incident Management roles and responsibilities](security-compliance/sec-controls/sg.5.03-security-roles-and-responsibilities/incident-management-roles-and-responsibilities.md)
+    * [Incident Management Roles and Responsibilities](security-compliance/sec-controls/sg.5.03-security-roles-and-responsibilities/incident-management-roles-and-responsibilities.md)
   * [SG.5.06 - Board of Director Bylaws](security-compliance/sec-controls/sg.5.06-board-of-director-bylaws/README.md)
     * [Governance Documents](security-compliance/sec-controls/sg.5.06-board-of-director-bylaws/governance-documents.md)
   * [SG.5.07 - Board of Directors Security Program Content](security-compliance/sec-controls/sg.5.07-board-of-directors-security-program-content/README.md)
