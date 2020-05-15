@@ -4,7 +4,7 @@
 
 ### Control Statement
 
-GitLab reviews information-security-related inquiries, complaints, and disputes.
+IllumiDesk reviews information-security-related inquiries, complaints, and disputes.
 
 ###  Context
 
