@@ -6,7 +6,7 @@
 
 IllumiDesk's business continuity plan is reviewed, approved by management and communicated to relevant team members biannually.
 
-###  Context
+### Context
 
 A business continuity plan is an overall organizational program for achieving continuity of operations for business functions. Continuity planning addresses both information system restoration and implementation of alternative business processes when systems are compromised. The business continuity plan is a comprehensive runbook that can walk all IllumiDesk team-members through exactly what their individual responsibilities are, in the event of a disruption to IllumiDesk operations. This triggering event can be anything from a malicious breach of our systems to a global datacenter disruption. A business continuity plan is only effective if users can trust the accuracy of the information in the plan. The review cycle for a business continuity plan is designed to ensure all information in the plan is as up-to-date as possible.
 
