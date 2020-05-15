@@ -12,7 +12,7 @@ By manually and automatically reviewing our source code for security vulnerabili
 
 ###  Scope
 
-This control applies to all GitLab source code.
+This control applies to all IllumiDesk source code.
 
 ###  Ownership
 
@@ -35,13 +35,7 @@ Examples of evidence an auditor might request to satisfy this control:
 
 ###  Framework Mapping
 
-* ISO
-  * A.14.2.1
-  * A.14.2.5
 * SOC2 CC
   * CC7.1
   * CC8.1
-* PCI
-  * 6.3.1
-  * 6.4.4
 
