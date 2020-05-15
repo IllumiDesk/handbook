@@ -2,7 +2,7 @@
 
 IllumiDesk is a modular, highly scalable application, distributed in a variety of packaged formats. When properly configured, it can accommodate from ten, to hundreds of thousands of users.
 
-It should be noted that our Omnibus distribution provides a reliable service even on a single server without any special configuration. As your organization grows, however, GitLab has the flexibility to expand according to your business needs.
+It should be noted that our Omnibus distribution provides a reliable service even on a single server without any special configuration. As your organization grows, however, IllumiDesk has the flexibility to expand according to your business needs.
 
 For example:
 
