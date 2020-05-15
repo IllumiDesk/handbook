@@ -1,6 +1,6 @@
 # Governance Documents
 
-#### **AMENDED AND RESTATED BYLAWS \(“RESTATED BYLAWS”\) OF GITLAB INC. \(Effective January 31, 2019\)** <a id="amended-and-restated-bylaws-restated-bylaws-of-gitlab-inc-effective-january-31-2019"></a>
+#### **AMENDED AND RESTATED BYLAWS \(“RESTATED BYLAWS”\) OF ILLUMIDESK LLC. \(Effective January 31, 2020\)** <a id="amended-and-restated-bylaws-restated-bylaws-of-gitlab-inc-effective-january-31-2019"></a>
 
 #### **ARTICLE 1 - OFFICES** <a id="article-1---offices"></a>
 
@@ -326,5 +326,5 @@ Unless the corporation consents in writing to the selection of an alternative fo
 
 #### **CERTIFICATE OF SECRETARY** <a id="certificate-of-secretary"></a>
 
-The undersigned, Secretary of GitLab Inc., a Delaware corporation, hereby certifies that the foregoing is a full, true and correct copy of the Amended and Restated Bylaws of said corporation, with all amendments to date of this Certificate. WITNESS the signature of the undersigned this 31st date of January, 2019.
+The undersigned, Secretary of IllumiDesk LLC, a Georgia corporation, hereby certifies that the foregoing is a full, true and correct copy of the Amended and Restated Bylaws of said corporation, with all amendments to date of this Certificate. WITNESS the signature of the undersigned this 31st date of January, 2020.
 
