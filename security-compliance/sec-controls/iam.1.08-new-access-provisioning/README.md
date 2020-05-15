@@ -47,7 +47,4 @@ Non-public information relating to this security control as well as links to the
 
 * SOC2 CC
   * CC6.2 - Prior to issuing system credentials and granting system access, the entity registers and authorizes new internal and external users whose access is administered by the entity. For those users whose access is administered by the entity, user system credentials are removed when user access is no longer authorized.
-* PCI
-  * 7.1.4 - Limit access to system components and cardholder data to only those individuals whose job requires such access.
-  * 8.1.2 - Control addition, deletion, and modification of user IDs, credentials, and other identifier objects.
 

@@ -6,11 +6,11 @@
 
 Incident Response Guidance is available in the Handbook that outlines IllumiDesk's security incident response process. It also provides information to internal and external users on how to report breaches, security and availability failures, incidents, concerns, identified vulnerabilities and other security complaints to appropriate personnel.
 
-###  Context
+### Context
 
 The purpose of this control is to ensure IllumiDesk creates, implements, and maintains an effective plan to identify, resolve, and prevent security incidents within its application, systems, and services. By having an organized and continually evolving security incident response plan, IllumiDesk can maintain the availability, reliability, performance, and confidentiality offered to IllumiDesk customers, IllumiDesk team-members, and partners. This control can be tested by first proving that IllumiDesk has sufficient documentation in place for an efficient Incident Response plan. This can include documentation pertaining to the handbook pages, Merge requests, and issues opened in reference to and in adherence to the IR plan. It can then be confirmed that any security incident that was reported \(if applicable\) followed the IR plan documentation.
 
-###  Scope
+### Scope
 
 This control applies to all systems within our production environment. The production environment includes all endpoints and cloud assets used in hosting IllumiDesk.com and its subdomains. This may include third-party systems that support the business of IllumiDesk.com.
 
@@ -92,12 +92,4 @@ Examples of evidence an auditor might request to satisfy this control:
 * SOC2 CC
   * CC4.2
   * CC7.3
-* PCI
-  * 11.1.2
-  * 11.5.1
-  * 12.10
-  * 12.10.1
-  * 12.10.4
-  * 12.10.5
-  * 12.10.6
 

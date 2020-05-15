@@ -55,9 +55,6 @@ Non-public information relating to this security control as well as links to the
 
 ###  Framework Mapping
 
-* ISO
-  * A.17.1.1
-  * A.17.1.2
 * SOC2 CC
   * CC7.5
 

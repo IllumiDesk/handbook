@@ -43,12 +43,7 @@ Non-public information relating to this security control as well as links to the
 
 ###  Framework Mapping
 
-* ISO
-  * A.17.1.2
-  * A.17.1.3
 * SOC2 CC
   * CC7.5
   * CC9.1
-* SOC2 Availability
-  * A1.3
 

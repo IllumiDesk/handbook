@@ -37,23 +37,6 @@ Examples of evidence an auditor might request to satisfy this control:
 
 ###  Framework Mapping
 
-* ISO
-  * A.12.5.1
-  * A.14.2.3
-  * A.14.2.4
-  * A.14.2.8
-  * A.14.2.9
 * SOC2 CC
   * CC8.1
-* PCI
-  * 1.1.1
-  * 10.4.2
-  * 6.3.2
-  * 6.4
-  * 6.4.5
-  * 6.4.5.1
-  * 6.4.5.2
-  * 6.4.5.3
-  * 6.4.5.4
-  * 6.4.6
 

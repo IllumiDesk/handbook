@@ -33,17 +33,7 @@ Examples of evidence an auditor might request to satisfy this control:
 
 ###  Framework Mapping
 
-* ISO
-  * A.10.1.2
-  * A.18.1.5
 * SOC2 CC
   * CC6.1
   * CC6.3
-* PCI
-  * 3.5
-  * 3.5.2
-  * 3.6
-  * 3.6.2
-  * 3.6.3
-  * 3.6.7
 

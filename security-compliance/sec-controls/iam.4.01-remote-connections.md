@@ -40,12 +40,7 @@ Non-public information relating to this security control as well as links to the
 
 ###  Framework Mapping
 
-* ISO
-  * A.11.2.6
 * SOC2 CC
   * CC6.6
   * CC6.7
-* PCI
-  * 8.1.1
-  * 8.6
 
