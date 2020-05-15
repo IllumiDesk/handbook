@@ -2,7 +2,7 @@
 
 ### Introduction <a id="introduction"></a>
 
-GitLab is fully committed to protecting the personal data of its customers, employees, suppliers and other stakeholders in accordance with the requirements of the General Data Protection Regulation \(GDPR\). We take the privacy of personal data very seriously and have initiated a variety of methods and controls to ensure we know what data we collect and hold and that we protect that data appropriately.
+IllumiDesk is fully committed to protecting the personal data of its customers, employees, suppliers and other stakeholders in accordance with the requirements of the General Data Protection Regulation \(GDPR\). We take the privacy of personal data very seriously and have initiated a variety of methods and controls to ensure we know what data we collect and hold and that we protect that data appropriately.
 
 As part of this commitment, the IllumiDesk ensures that, where appropriate, projects and personal data processing activities are subject to a Data Protection Impact Assessment \(DPIA\) as a key component of a ‘Privacy by Design’ approach. The purpose of this assessment is to ensure that our use of personal data is fully understood, that risks to the rights and freedoms of individuals resulting from the processing of personal data are carefully examined and that all appropriate measures are put in place to protect these rights throughout the lifecycle of the processing.
 

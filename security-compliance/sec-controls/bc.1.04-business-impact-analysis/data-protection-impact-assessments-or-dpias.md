@@ -27,7 +27,7 @@ The assessment of whether there is a need for a DPIA, as well as any required DP
 
 At IllumiDesk, the DPIA process is initiated by a tool's Business Owner during the Procure to Pay Process, during which the Business Owner must complete a Data Protection Impact Assessment issue template.
 
-### GitLab's DPIA Process FAQs <a id="gitlabs-dpia-process-faqs"></a>
+### IllumiDesk's DPIA Process FAQs <a id="gitlabs-dpia-process-faqs"></a>
 
 **Who is responsible for the DPIA?** Ultimately, the Business Owner of a tool is the DRI for completing the DPIA. However, there are steps that require input from others at IllumiDesk, including the Privacy Officer and the Data Protection Officer \(DPO\). The DPIA issue template will walk you through the steps and instruct you on who to consult with for each step. It is important to understand that while the Business Owner is responsible for moving the process forward through the steps, there may be steps during which someone else becomes the DRI for making decisions to address concerns in that step.
 
@@ -55,7 +55,7 @@ _Opt-out options are not oppressive._ When people receive mail that they don’t
 
 _Opt-outs need to be quick._ Ideally, an opt-out will occur automatically or within a business day or two. If you take more than ten \(10\) business days to remove an email from a mailing list, things will get messy quickly.
 
-_Stay Diligent._ If you use a third party to manage business emails, be aware that GitLab could still be on the hook for any wrongdoing. Make sure that any mass communications are reviewed by someone knowledgeable in the spam laws.
+_Stay Diligent._ If you use a third party to manage business emails, be aware that IllumiDesk could still be on the hook for any wrongdoing. Make sure that any mass communications are reviewed by someone knowledgeable in the spam laws.
 
 We care about our customers and their protection is our focus. But, if creating transparent and open relationships with our customers isn't your concern, then be aware that failing to comply can cost a lot of money on a per email basis - up to $41,000 per violation. That adds up quickly.
 
@@ -107,7 +107,7 @@ MORE LOUD NOISES – WE DON’T PROMISE OUR PRODUCTS WILL MAKE ANYONE LOOK YOUNG
 
 UNDER WARRANTY, CUSTOMERS GENERALLY ASK FOR TWO THINGS: WARRANTY OF MERCHANTABILITY AND WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE. MERCHANTABILITY MEANS THAT WE ARE PINKY-SWEARING \(AT THE RISK OF LOTS OF MONEY\) THAT THE PRODUCT WE PROVIDE WILL PERFORM EXACTLY THE SAME WAY IT PERFORMS IN EVERY OTHER ENVIRONMENT. THAT’S A SUPER TRICKY PROMISE TO MAKE SINCE NO TWO CUSTOMERS ARE IDENTICAL.
 
-FITNESS FOR A PARTICULAR PURPOSE MEANS THAT WE ARE CROSSING OUR HEART \(AT THE RISK OF LOTS OF MONEY\) THAT THE PRODUCT WILL DO EVERYTHING THAT THE CUSTOMER EXPECTS IT TO DO - EVEN IF THEY HAVEN’T TOLD US THOSE EXPECTATIONS. SO, UNTIL THE GITLAB PSYCHIC APP IS RELEASED, WE HAVE TO AVOID THIS ONE, TOO \(OR OTHERWISE DO A MAGIC 8 BALL INSTALL\).
+FITNESS FOR A PARTICULAR PURPOSE MEANS THAT WE ARE CROSSING OUR HEART \(AT THE RISK OF LOTS OF MONEY\) THAT THE PRODUCT WILL DO EVERYTHING THAT THE CUSTOMER EXPECTS IT TO DO - EVEN IF THEY HAVEN’T TOLD US THOSE EXPECTATIONS. SO, UNTIL THE IllumiDesk PSYCHIC APP IS RELEASED, WE HAVE TO AVOID THIS ONE, TOO \(OR OTHERWISE DO A MAGIC 8 BALL INSTALL\).
 
 HERE’S ANOTHER JEDI-CONTRACT TRICK: IF YOU DON’T EXPRESSLY STATE THAT NO OTHER WARRANTIES APPLY THEN OTHER WARRANTIES WILL APPLY \(EVEN THOSE NOT WRITTEN OUT\). CONFUSING, LAWYERS MAKE IT.
 
@@ -223,7 +223,7 @@ You could say that I have imposed export restrictions on the pictures for those 
 
 Governments throughout the world pose similar restrictions \(not on my pictures, on their technology\). Various countries state that if the technology is of their origin, it falls under the laws of their country.\) It isn’t just a United States thing, most countries have restrictions. Even Canada has rules about their technology and Canada has to be one of the nicest countries in the world. Who doesn’t like Canada?
 
-Well, GitLab US technology is subject to US law. Much like I say that you can’t send my pictures to anyone at my ex’s house, US law states you can’t send their technology to Iran, Sudan, Syria, Cuba, North Korea or the Crimean Region of the Ukraine. Much like I say that you can’t show my pictures to my ex or to Sid, US law has a list of entities to whom they prohibit passing the technology.
+Well, IllumiDesk US technology is subject to US law. Much like I say that you can’t send my pictures to anyone at my ex’s house, US law states you can’t send their technology to Iran, Sudan, Syria, Cuba, North Korea or the Crimean Region of the Ukraine. Much like I say that you can’t show my pictures to my ex or to Sid, US law has a list of entities to whom they prohibit passing the technology.
 
 A prohibition is a prohibition. You can’t find loopholes. For instance, if I say you can’t send those pictures to my ex, you can’t try to get all creative by giving him a tour of my house and just showing him the pictures while he is here. You can’t take pictures of my pictures and forward those. You can’t have a sketch artist recreate renderings of the photos. Same with export. If you can’t send the technology to a country or a person, you can’t let them see the guts of the technology through other mechanisms. There simply aren’t loopholes in export law. The only way you can get around the restrictions is to get permission from the government directly. This permission is provided in the form of a license.
 
