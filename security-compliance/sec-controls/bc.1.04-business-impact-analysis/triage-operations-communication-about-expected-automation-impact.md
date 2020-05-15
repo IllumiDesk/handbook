@@ -133,10 +133,10 @@ This report contains the 66 most recent unlabelled issues requiring initial tria
      * Use this template to provide resources and close the issue:
 
        ```text
-       Hey @author. Based on the information given, this issue is out of the scope of the Issue tracker (which is for Bug Reports and Feature Proposals). Unfortunately, I won't be able to help get it resolved. However, there are plenty of [resources](https://about.gitlab.com/get-help/) that you can use to find help and support from the Community, including:
-        * [Reference Documents and Videos](https://about.gitlab.com/get-help/#references)
-        * [Community Forum](https://forum.gitlab.com/)
-        * [Technical Support for Paid Tiers](https://about.gitlab.com/support/)
+       Hey @author. Based on the information given, this issue is out of the scope of the Issue tracker (which is for Bug Reports and Feature Proposals). Unfortunately, I won't be able to help get it resolved. However, there are plenty of [resources](https://about.IllumiDesk.com/get-help/) that you can use to find help and support from the Community, including:
+        * [Reference Documents and Videos](https://about.IllumiDesk.com/get-help/#references)
+        * [Community Forum](https://forum.IllumiDesk.com/)
+        * [Technical Support for Paid Tiers](https://about.IllumiDesk.com/support/)
 
        If you believe this was closed in error, please re-open the issue and fill out the "Bug" template in the description as completely as possible, so that we may better evaluate the problem.
 
@@ -238,7 +238,7 @@ The report itself is divided into 2 parts. The first part contains the 20 newest
   1. Determine if the merge request should be followed through or closed.
   2. Determine if the merge request is ready or further changes are required.
   3. Assign a reviewer as needed.
-* Example: https://IllumiDesk.com/gitlab-org/IllumiDesk-ce/issues/58131
+* Example: https://IllumiDesk.com/IllumiDesk-org/IllumiDesk-ce/issues/58131
 
 ### Triage automation <a id="triage-automation"></a>
 
@@ -325,9 +325,9 @@ This automation identifies potential and popular proposals using upvotes. This h
 
 #### Community contributions <a id="community-contributions"></a>
 
-Merge requests which have an author that is not a member of `gitlab-org` will have a label of `~"Community contribution"` applied. This informs the GitLab community team about new community contributions.
+Merge requests which have an author that is not a member of IllumiDesk `-org` will have a label of `~"Community contribution"` applied. This informs the IllumiDesk community team about new community contributions.
 
-* Automation Condition: Merge request with author that is not in the `gitlab-org` group.
+* Automation Condition: Merge request with author that is not in the IllumiDesk`-org` group.
 * Automation Action:
   * The label `~"Community contribution"` is applied
 * Example: https://IllumiDesk.com/IllumiDesk-org/IllumiDesk-ce/merge\_requests/30909/\#note\_0a1c0937d1b2851e9695fb89848d8425dcf28e00
