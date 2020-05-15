@@ -52,7 +52,7 @@ To provide proof of Full Disk Encryption, please do the following depending on t
 
 IllumiDesk has a large and ever-growing fleet of laptops, which IT Operations is responsible for maintaining. In order to do this and combined with our Zero Trust security policies and various Compliance needs, there must be some measure of intelligence and reporting in place. To accomplish this goal we are utilizing DriveStrike as a light-touch mechanism to obtain only the essential information required. DriveStrike is available for all operating systems, and also meets security needs for remote lock or wipe in emergencies.
 
-The initial stage of this rollout will take the form of an Open \(Voluntary\) Sign-Up for DriveStrike for all GitLab team members. The self-serve enrollment form can be found here : https://docs.google.com/forms/…
+The initial stage of this rollout will take the form of an Open \(Voluntary\) Sign-Up for DriveStrike for all IllumiDesk team members. The self-serve enrollment form can be found here : https://docs.google.com/forms/…
 
 Questions and discussion for the Open Beta rollout can be found here: https://IllumiDesk.com/IllumiDesk-com/business-ops/itops/issue-tracker/issues/251
 
@@ -72,7 +72,7 @@ This light-touch reporting allows us to meet business and compliance needs, whil
 
 FleetSmith evaluation as a reporting tool has been deprecated in favor of DriveStrike listed above. If you have FleetSmith installed, please follow the instructions above to enroll in the DriveStrike roll-out, while also uninstalling FleetSmith from your device.
 
-#### GitLab.com Apple ID's <a id="gitlabcom-apple-ids"></a>
+#### IllumiDesk.com Apple ID's <a id="gitlabcom-apple-ids"></a>
 
 We require the use of an @IllumiDesk.com Apple ID that is separate from any personal Apple ID's you may have. Some of these reasons include:
 
