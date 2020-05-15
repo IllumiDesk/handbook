@@ -1,12 +1,10 @@
 # SYS.1.01 - Audit Logging
 
-
-
-### Control Statement
+## Control Statement
 
 IllumiDesk logs critical information system activity.
 
-###  Context
+## Context
 
 Logging is the foundation for a variety of other security controls including monitoring, incident response, and configuration management. Without comprehensive and reliable logs, large parts of our security compliance program wouldn't be possible. This control is left vague by design. As we develop our system maps and inventories this control will likely become a bit more targeted. To start we really want all IllumiDesk teams to enable system-level logging on all production systems.
 
@@ -20,11 +18,11 @@ An auditor will look to validate in-scope systems are generating logs, those log
 * Master asset listing to confirm correct systems are being audited
 * Log collection process\(es\)
 
-###  Scope
+## Scope
 
 This control applies to all systems within our production environment. The production environment includes all endpoints and cloud assets used in hosting IllumiDesk.com and its subdomains. This may include third-party systems that support the business of IllumiDesk.com.
 
-###  Ownership
+## Ownership
 
 Control Owner:
 
@@ -36,13 +34,13 @@ Process Owners:
 * Infrastructure
 * Security Operations
 
-###  Guidance
+## Guidance
 
 Server configuration standards should have logging information enabled for each type of system. These logs should be retained for one year with 90 days of data immediately available for analysis or in accordance with Record Retention Policy, whichever is longer.
 
-####  Audit Logging Matrix
+### Audit Logging Matrix
 
-_Audit Logging Matrix is a modified version of_ NIST 800-92 - Guide to Computer Security Log Management
+_Audit Logging Matrix is a modified version of_ NIST 800-92 - Guide to Computer Security Log Management. The table below is an example of how the audit logging matrix should be presented to users.
 
 | Type | Value | Reason\(s\) | Log Example\(s\) |
 | :--- | :--- | :--- | :--- |
@@ -72,19 +70,12 @@ _Audit Logging Matrix is a modified version of_ NIST 800-92 - Guide to Computer 
 | Major application configuration changes | Unintended or modified application configuration activity |  TBD |  |
 | Application transactions:  – e-mail servers recording the sender, recipients, subject name, and attachment names for each e-mail  – Web servers recording each URL requested and the type of response provided by the server  – business applications recording which financial records were accessed by each user | Capture relevant application transaction data to create baselines for identifying unintended actions | TBD  |  |
 
-###  Additional control information and project tracking
+## Additional control information and project tracking
 
 Non-public information relating to this security control as well as links to the work associated with various phases of project work can be found in the Audit Logging control issue.
 
-###  Framework Mapping
+### Framework Mapping
 
-* ISO
-  * A.12.4.1
 * SOC2 CC
   * CC7.2
-* NIST 800-53
-  * AU-1
-  * AU-2
-  * AU-9
-  * AU-12
 

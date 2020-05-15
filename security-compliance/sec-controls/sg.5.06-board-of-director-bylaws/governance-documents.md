@@ -1,22 +1,22 @@
 # Governance Documents
 
-#### **AMENDED AND RESTATED BYLAWS \(“RESTATED BYLAWS”\) OF ILLUMIDESK LLC. \(Effective January 31, 2020\)** <a id="amended-and-restated-bylaws-restated-bylaws-of-gitlab-inc-effective-january-31-2019"></a>
+## **AMENDED AND RESTATED BYLAWS \(“RESTATED BYLAWS”\) OF ILLUMIDESK LLC. \(Effective March 31, 2020\)**
 
-#### **ARTICLE 1 - OFFICES** <a id="article-1---offices"></a>
+### **ARTICLE 1 - OFFICES**
 
-#### **Section 1.1 - Registered Office** <a id="section-11---registered-office"></a>
+#### **Section 1.1 - Registered Office**
 
-The registered office of the corporation in the State of Delaware shall be as set forth in the certificate of incorporation of the corporation \(as amended from time to time, the “Certificate of Incorporation”\).
+The registered office of the corporation in the State of Georgia shall be as set forth in the certificate of incorporation of the corporation \(as amended from time to time, the “Certificate of Incorporation”\).
 
 #### **Section 1.2 - Other Offices** <a id="section-12---other-offices"></a>
 
 The corporation shall also have and maintain an office or principal place of business at such other place or places, either within or without the State of Delaware as the Board of Directors \(the “Board”\) may from time to time determine or the business of the corporation may require.
 
-#### **ARTICLE 2 - STOCKHOLDERS’ MEETINGS** <a id="article-2---stockholders-meetings"></a>
+### **ARTICLE 2 - STOCKHOLDERS’ MEETINGS**
 
 #### **Section 2.1 - Other Offices** <a id="section-21---other-offices"></a>
 
-\(a\) All meetings of stockholders shall be held at the principal executive office of the corporation or at any other place within or without the State of Delaware specified by the Board, or, to the extent permitted by Section 2.11\(b\), by electronic communication.
+\(a\) All meetings of stockholders shall be held at the principal executive office of the corporation or at any other place within or without the State of Georgia specified by the Board, or, to the extent permitted by Section 2.11\(b\), by electronic communication.
 
 \(b\) If authorized by the Board in its sole discretion, and subject to such guidelines and procedures as the Board may adopt, stockholders and proxyholders not physically present at a meeting of stockholders may, by means of remote communication:
 
@@ -102,7 +102,7 @@ The Chairman of the meeting shall, if the facts warrant, determine and declare t
 
 Unless otherwise provided in the Certificate of Incorporation, any action required by statute to be taken at any annual or special meeting of stockholders of the corporation, or any action which may be taken at any annual or special meeting of such stockholders, may be taken without a meeting, without prior notice and without a vote, if a consent or consents in writing setting forth the action so taken are signed by the holders of outstanding stock having not less than the minimum number of votes that would be necessary to authorize or take such action at a meeting at which all shares entitled to vote thereon were present and voted. To be effective, a written consent must be delivered to the corporation by delivery to its registered office in Delaware, its principal place of business, or an officer or agent of the corporation having custody of the book in which proceedings of meetings of stockholders are recorded. Delivery made to a corporation’s registered office shall be by hand or by certified or registered mail, return receipt requested. No written consent shall be effective to take the corporate action referred to therein unless written consents signed by a sufficient number of holders to take action are delivered to the corporation in the manner required by this section within 60 days of the first date on which a written consent is so delivered to the corporation. Prompt notice of the taking of the corporate action without a meeting by less than unanimous written consent shall, to the extent required by law, be given to those stockholders who have not consented in writing.
 
-#### **ARTICLE 3 - DIRECTORS** <a id="article-3---directors"></a>
+### **ARTICLE 3 - DIRECTORS**
 
 #### **Section 3.1 - Number and Term of Office** <a id="section-31---number-and-term-of-office"></a>
 
@@ -158,7 +158,7 @@ Directors and members of committees may receive such compensation, if any, for t
 
 \(d\) Meetings: Unless the Board shall otherwise provide, regular meetings of the Executive Committee or any other committee appointed pursuant to this Section 3.9 shall be held at such times and places as are determined by the Board, or by any such committee, and when notice thereof has been given to each member of such committee, no further notice of such regular meetings need be given thereafter; special meetings of any such committee may be held at the principal office of the corporation required to be maintained pursuant to Section 1.2; or at any place which has been designated from time to time by resolution of such committee or by written consent of all members thereof, and may be called by any director who is a member of such committee upon written notice to the members of such committee of the time and place of such special meeting given in the manner provided for the giving of written notice to members of the Board of the time and place of special meetings of the Board. Notice of any special meeting of any committee may be waived in writing at any time after the meeting and will be waived by any director by attendance thereat. A majority of the authorized number of members of any such committee shall constitute a quorum for the transaction of business, and the act of a majority of those present at any meeting at which a quorum is present shall be the act of such committee.
 
-#### **ARTICLE 4 - OFFICERS** <a id="article-4---officers"></a>
+### **ARTICLE 4 - OFFICERS**
 
 #### **Section 4.1 - Officers Designated** <a id="section-41---officers-designated"></a>
 
@@ -180,7 +180,7 @@ The officers of the corporation shall be a Chief Executive Officer, President, a
 
 \(g\) Duties of Chief Financial Officer: The Chief Financial Officer shall be the Treasurer of the corporation and shall keep or cause to be kept the books of account of the corporation in a thorough and proper manner, and shall render statements of the financial affairs of the corporation in such form and as often as required by the Board, CEO or President. The Chief Financial Officer, subject to the order of the Board, shall have the custody of all funds and securities of the corporation. The Chief Financial Officer shall perform all other duties commonly incident to his office and shall perform such other duties and have such other powers as the Board, CEO or President shall designate from time to time. The CEO or President may direct any assistant treasurer to assume and perform the duties of the Chief Financial Officer in the absence or disability of the Chief Financial Officer, and each assistant treasurer shall perform such other duties and have such other powers as the Board, CEO or President shall designate from time to time.
 
-#### **ARTICLE 5 - EXECUTION OF CORPORATE INSTRUMENTS, AND VOTING OF SECURITIES OWNED BY THE CORPORATION** <a id="article-5---execution-of-corporate-instruments-and-voting-of-securities-owned-by-the-corporation"></a>
+### **ARTICLE 5 - EXECUTION OF CORPORATE INSTRUMENTS, AND VOTING OF SECURITIES OWNED BY THE CORPORATION**
 
 #### **Section 5.1 - Execution of Corporate Instruments** <a id="section-51---execution-of-corporate-instruments"></a>
 
@@ -196,7 +196,7 @@ The officers of the corporation shall be a Chief Executive Officer, President, a
 
 All stock and other securities of other corporations owned or held by the corporation for itself or for other parties in any capacity shall be voted, and all proxies with respect thereto shall be executed, by the person authorized so to do by resolution of the Board or, in the absence of such authorization,by the Chairman of the Board \(if there be such an officer appointed\), CEO or President, or by any Vice President.
 
-#### **ARTICLE 6 - SHARES OF STOCK** <a id="article-6---shares-of-stock"></a>
+### **ARTICLE 6 - SHARES OF STOCK**
 
 #### **Section 6.1 - Form and Execution of Certificates** <a id="section-61---form-and-execution-of-certificates"></a>
 
@@ -222,11 +222,11 @@ Transfers of record of shares of stock of the corporation shall be made only upo
 
 The corporation shall be entitled to recognize the exclusive right of a person registered on its books as the owner of shares to receive dividends and to vote as such owner, and shall not be bound to recognize any equitable or other claim to or interest in such share or shares on the part of any other person, whether or not it shall have express or other notice thereof, except as otherwise provided by the laws of Delaware.
 
-#### **ARTICLE 7 - OTHER SECURITIES OF THE CORPORATION** <a id="article-7---other-securities-of-the-corporation"></a>
+### **ARTICLE 7 - OTHER SECURITIES OF THE CORPORATION**
 
 All bonds, debentures and other corporate securities of the corporation, other than stock certificates, may be signed by the Chairman of the Board \(if there be such an officer appointed\), CEO or President or any Vice President or such other person as may be authorized by the Board; provided that where any such bond, debenture or other corporate security shall be authenticated by the manual signature of a trustee under an indenture pursuant to which such bond, debenture or other corporate security shall be issued, the signature of the persons signing may be the imprinted facsimile of the signatures of such persons. Interest coupons appertaining to any such bond, debenture or other corporate security, authenticated by a trustee as aforesaid, shall be signed by the Chief Financial Officer or an assistant treasurer of the corporation, or such other person as may be authorized by the Board, or bear imprinted thereon the facsimile signature of such person. In case any officer who shall have signed or attested any bond, debenture or other corporate security, or whose facsimile signature shall appear thereon has ceased to be an officer of the corporation before the bond, debenture or other corporate security so signed or attested shall have been delivered, such bond, debenture or other corporate security nevertheless may be adopted by the corporation and issued and delivered as though the person who signed the same or whose facsimile signature shall have been used thereon had not ceased to be such officer of the corporation.
 
-#### **ARTICLE 8 - INDEMNIFICATION OF OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS** <a id="article-8---indemnification-of-officers-directors-employees-and-agents"></a>
+### **ARTICLE 8 - INDEMNIFICATION OF OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS**
 
 #### **Section 8.1 - Right to Indemnification** <a id="section-81---right-to-indemnification"></a>
 
@@ -276,11 +276,11 @@ The corporation shall not be liable under this Article 8 to make any payment in 
 
 If this Article 8 or any portion hereof shall be invalidated on any ground by any court of competent jurisdiction, then the corporation shall nevertheless indemnify or advance expenses to each Covered Person to the fullest extent not prohibited by any applicable portion of this Article 8 that shall not have been invalidated, or by any other applicable law.
 
-#### **ARTICLE 9 - NOTICES** <a id="article-9---notices"></a>
+### **ARTICLE 9 - NOTICES**
 
 Whenever, under any provisions of these Restated Bylaws, notice is required to be given to any stockholder, the same shall be given either \(i\) in writing,timely and duly deposited in the United States Mail, postage prepaid, and addressed to his last known post office address as shown by the stock record of the corporation or its transfer agent, or \(ii\) by a means of electronic transmission that satisfies the requirements of Section 2.4\(e\) and has been given in accordance with applicable law. Any notice required to be given to any director may be given by either of the methods hereinabove stated, except that such notice other than one which is delivered personally, shall be sent to such address or \(in the case of electronic communication\) such e-mail address, facsimile telephone number or other form of electronic address as such director shall have filed in writing or by electronic communication with the Secretary of the corporation, or, in the absence of such filing, to the last known post office address of such director. An affidavit of mailing, executed by a duly authorized and competent employee of the corporation or its transfer agent appointed with respect to the class of stock affected, specifying the name and address or the names and addresses of the stockholder or stockholders, director or directors, to whom any such notice or notices was or were given, and the time and method of giving the same, shall be conclusive evidence of the statements therein contained. All notices given by mail, as above provided, shall be deemed to have been given as at the time of mailing and all notices given by means of electronic transmission shall be deemed to have been given as at the sending time recorded by the electronic transmission equipment operator transmitting the same. It shall not be necessary that the same method of giving notice be employed in respect of all directors, but one permissible method may be employed in respect of any one or more, and any other permissible method or methods may be employed in respect of any other or others. The period or limitation of time within which any stockholder may exercise any option or right, or enjoy any privilege or benefit, or be required to act, or within which any director may exercise any power or right, or enjoy any privilege, pursuant to any notice sent him in the manner above provided, shall not be affected or extended in any manner by the failure of such a stockholder or such director to receive such notice. Whenever any notice is required to be given under the provisions of the statutes or of the Certificate of Incorporation, or of these Restated Bylaws, a waiver thereof in writing signed by the person or persons entitled to said notice, or a waiver by electronic transmission by the person entitled to notice, whether before or after the time stated therein, shall be deemed equivalent thereto. Whenever notice is required to be given, under any provision of law or of the Certificate of Incorporation or Bylaws of the corporation, to any person with whom communication is unlawful, the giving of such notice to such person shall not be required and there shall be no duty to apply to any governmental authority or agency for a license or permit to give such notice to such person. Any action or meeting which shall be taken or held without notice to any such person with whom communication is unlawful shall have the same force and effect as if such notice had been duly given. In the event that the action taken by the corporation is such as to require the filing of a certificate under any provision of the Delaware General Corporation Law, the certificate shall state, if such is the fact and if notice is required, that notice was given to all persons entitled to receive notice except such persons with whom communication is unlawful.
 
-#### **ARTICLE 10 - TRANSFERS OF CAPITAL STOCK** <a id="article-10---transfers-of-capital-stock"></a>
+### **ARTICLE 10 - TRANSFERS OF CAPITAL STOCK**
 
 #### **Section 10.1 - Restriction on Transfer** <a id="section-101---restriction-on-transfer"></a>
 
@@ -316,15 +316,15 @@ Whenever, under any provisions of these Restated Bylaws, notice is required to b
 
 “THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRICTIONS ON TRANSFER AS PROVIDED IN THE BYLAWS OF THE CORPORATION.” If any Common Shares are uncertificated, the corporation shall provide notice of the restrictions on transfer set forth herein in accordance with applicable law.
 
-#### **ARTICLE 11 - AMENDMENTS** <a id="article-11---amendments"></a>
+### **ARTICLE 11 - AMENDMENTS**
 
 Except as otherwise provided in Section 8.9, these Restated Bylaws may be repealed, altered or amended or new Bylaws adopted by written consent of stockholders in the manner authorized by Section 2.11, or at any meeting of the stockholders, either annual or special, by the affirmative vote of a majority of the stock entitled to vote at such meeting, unless a larger vote is required by these Restated Bylaws or the Certificate of Incorporation. Except as otherwise provided in Section 8.9, the Board shall also have the authority to repeal, alter or amend these Restated Bylaws or adopt new Bylaws \(including, without limitation, the amendment of any Bylaws setting forth the number of directors who shall constitute the whole Board\) by unanimous written consent or at any annual, regular, or special meeting by the affirmative vote of a majority of the whole number of directors, subject to the power of the stockholders to change or repeal such Bylaws and provided that the Board shall not make or alter any Bylaws fixing the qualifications, classifications, or term of office of directors.
 
-#### **ARTICLE 12 - FORUM SELECTION** <a id="article-12---forum-selection"></a>
+### **ARTICLE 12 - FORUM SELECTION**
 
 Unless the corporation consents in writing to the selection of an alternative forum, the Court of Chancery of the State of Delaware shall, to the fullest extent permitted by law, be the sole and exclusive forum for \(1\) any derivative action or proceeding brought on behalf of the corporation, \(2\) any action asserting a claim of breach of a fiduciary duty owed by any current or former director, officer, other employee or stockholder of the corporation to the corporation or the corporation's stockholders, \(3\) any action asserting a claim arising pursuant to any provision of the Delaware General Corporation Law,the Certificate of Incorporation or these Restated Bylaws or as to which the Delaware General Corporation Law confers jurisdiction on the Court of Chancery of the State of Delaware, or \(4\) any action asserting a claim governed by the internal affairs doctrine. Any person or entity purchasing or otherwise acquiring or holding any interest in shares of capital stock of the corporation shall be deemed to have notice of and consented to the provisions of this Article 12.
 
-#### **CERTIFICATE OF SECRETARY** <a id="certificate-of-secretary"></a>
+### **CERTIFICATE OF SECRETARY**
 
 The undersigned, Secretary of IllumiDesk LLC, a Georgia corporation, hereby certifies that the foregoing is a full, true and correct copy of the Amended and Restated Bylaws of said corporation, with all amendments to date of this Certificate. WITNESS the signature of the undersigned this 31st date of January, 2020.
 

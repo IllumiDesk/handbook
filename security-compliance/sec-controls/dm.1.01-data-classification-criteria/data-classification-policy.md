@@ -1,24 +1,22 @@
 # Data Classification Policy
 
-## Data Classification Policy <a id="data-classification-policy"></a>
-
 Data classification provides a way to categorize organizational data based on levels of sensitivity. The purpose of this policy is to establish a framework for classifying data based on its sensitivity, value and criticality to the organization. By understanding what data types are available, classification and access levels, you can map the appropriate access/protection of the data. This ensures that sensitive corporate and customer data can be secured appropriately.
 
-### Scope <a id="scope"></a>
+## Scope
 
 The IllumiDesk Data Classification Policy applies to all data handled, managed, stored, or transmitted by IllumiDesk and IllumiDesk team members, including that which is submitted to IllumiDesk Support as part of a support request.
 
-### Roles and Responsibilities <a id="roles-and-responsibilities"></a>
+## Roles and Responsibilities
 
 Everyone at IllumiDesk is responsible to review, adhere to and handle data according to the classification levels below. The Data Classification Index \(internal only\) provides a list of various types of data and their classification level. If you cannot identify the data element or are uncertain of the risk associated with the data and how it should be classified and handled, please contact The Compliance Team.
 
-### Definitions <a id="definitions"></a>
+## Definitions
 
 * Personally Identifiable Information \(PII\) has been defined per GDPR Requirements
 
-### Data Classification levels <a id="data-classification-levels"></a>
+## Data Classification levels
 
-#### RED <a id="red"></a>
+### RED
 
 Restricted and must remain confidential. This is our most sensitive data and access to it should be considered privileged. Exposure of this data to unauthorized parties could cause extreme loss to IllumiDesk and/or its customers. In the gravest scenario, exposure of this data could trigger or cause a business extinction event.
 
@@ -32,7 +30,7 @@ Systems, applications and/or integrations containing Red information must have a
 
 **Reproduction:** Do not reproduce or share Red information in an application lacking the appropriate level of security. Never share in a public forum.
 
-#### ORANGE <a id="orange"></a>
+### ORANGE
 
 Data and information that should not be made generally available. Unauthorized access or disclosure could cause significant or financial material loss, risk of harm to IllumiDesk if exposed to unauthorized parties, break contractual obligations, and/or adversely impact IllumiDesk, its partners, employees, and customers.
 
@@ -50,7 +48,7 @@ Third party access to confidential information is granted only on a need to know
 
 **Storage/Disposal:** Electronic storage requires access controls, access control lists, and directory as well as file permissions, and other protection mechanisms. Information must be encrypted if necessary to store on publicly accessible systems. Electronic storage media must be irretrievably erased, degaussed and/or disposed of in a secure fashion. When information is no longer valid or necessary, it should be completely and permanently destroyed in accordance with the Record Retention Policy.
 
-#### YELLOW <a id="yellow"></a>
+### YELLOW
 
 Non-public data that is not classified as ORANGE or RED. Disclosure of this data could violate privacy policies, minimal risk of harm and/or adversely impact IllumiDesk, its partners, employees, and customers.
 
@@ -66,13 +64,13 @@ Access to YELLOW data is limited to those with a business need-to-know, includin
 
 **Storage/Disposal:** Normal deletion commands or utilities with operating systems are sufficient for online files. When information is no longer valid or necessary, it should be completely and permanently destroyed. Basic access controls must be configured on the device\(s\) storing such information
 
-#### GREEN <a id="green"></a>
+### GREEN
 
 Data and information that are publicly shareable, and do not expose IllumiDesk or its partners to any harm are classified as Green.
 
 Public Information requires no special handling.
 
-### Credentials and access tokens are classified at the same level as the data they protect <a id="credentials-and-access-tokens-are-classified-at-the-same-level-as-the-data-they-protect"></a>
+### Credentials and access tokens are classified at the same level as the data they protect
 
 Credentials such as passwords, encryption keys, and session cookies derive their importance from the data they protect. For example, authentication cookies for IllumiDesk.com super users are classified as RED because anyone who gains access to them will have access to customer content, which is RED data.
 
@@ -86,13 +84,13 @@ Typically only client applications are considered to be handling "A single custo
 
 An example of this would be a single customer's encrypted content \(ORANGE\) that is stored on the same system as a IllumiDesk employee'ss credentials \(ORANGE\). If this user has permission to access to secrets that decrypt the customer's encrypted content, this elevates the classification \(to RED\).
 
-### Labeling <a id="labeling"></a>
+## Labeling
 
 There is currently no requirement to label data according to this policy however labels are encouraged. By labeling data according to classification level, individuals can quickly refer to this policy for proper handing.
 
 Issues that are confidential must be marked accordingly per our Communication Handbook Page
 
-### Customer Responsibilities <a id="customer-responsibilities"></a>
+## Customer Responsibilities
 
 Customers are responsible to identify and classify their own data. IllumiDesk handles confidential customer information internally according to our `non disclosure obligations` written in our Mutual Non Disclosure Agreement.
 

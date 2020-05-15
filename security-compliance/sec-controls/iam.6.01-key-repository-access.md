@@ -1,27 +1,25 @@
 # IAM.6.01 - Key Repository Access
 
-
-
-### Control Statement
+## Control Statement
 
 Access to the cryptographic keystores is limited to authorized personnel.
 
-###  Context
+## Context
 
 One of the fundamental and most important security considerations of encryption is protecting cryptographic keys, particularly private keys. This controls aims to protect the confidentiality and integrity of data for customers, IllumiDesk team-members, and partners by limiting the number of people with access to view, modify, and create new cryptographic keys. A malicious actor with access to IllumiDesk's cryptographic keys could decrypt all sensitive data stored and transmitted by IllumiDesk, rending the encryption useless.
 
-###  Scope
+## Scope
 
 This control applies to all cryptographic keystores for the production environment. The production environment includes all endpoints and cloud assets used in hosting IllumiDesk.com and its subdomains. This may include third-party systems that support the business of IllumiDesk.com.
 
-###  Ownership
+## Ownership
 
 Control Owner: `Infrastructure`
 
 * Process owner\(s\):
   * Infrastructure
 
-###  Additional control information and project tracking
+## Additional control information and project tracking
 
 Non-public information relating to this security control as well as links to the work associated with various phases of project work can be found in the Key Repository Access control issue.
 

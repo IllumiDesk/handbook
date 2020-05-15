@@ -1,16 +1,16 @@
-# BC.1.02 - Business Continuity Plan: Roles and Responsibilities
+# BC.1.0.2 - Business Continuity Plan: Roles and Responsibilities
 
-###  Control Statement
+## Control Statement
 
 Business contingency roles and responsibilities are assigned to individuals and their contact information is communicated to authorized personnel.
 
-###  Context
+## Context
 
 Establishing defined roles and responsibilities reduces organization confusion in the event of disruption. Knowing who the DRI are and how to contact them empowers faster communication, reduced response times, makes for easier and more substantive triage, and ultimately, more speedy recovery from disruption.
 
 This control is a subset of the Business Continuity plan. The purpose of this control is to ensure that  IllumiDesk is able to return to its daily operations as quickly as possible after an unforeseen event. Hence the main idea here is to identify key staff, such that: resources are protected, customer inconvenience minimized and specific responsibilities are assigned in the context of a quick recovery. This plan will clearly define the Roles and responsibilities of individuals within IllumiDesk who will be responsible, accountable, consulted and informed.
 
-###  Scope
+## Scope
 
 Roles and Responsibilities should be defined for the following environments and systems:
 
@@ -19,11 +19,11 @@ Roles and Responsibilities should be defined for the following environments and 
 * BC plan for license. IllumiDesk .com \(AWS\)
 * Processes and procedures that support business operations and above environments
 
-###  Ownership
+##  Ownership
 
 * Business Operations owns this control.
 
-###  Guidance
+## Guidance
 
 As part of the esablishment of a BC plan: One of the key areas is to identify individuals who will be designated to be the key personnel responsible for the restoration activities. A high level BC roles & responsibilities section should include the following listed below:
 
@@ -47,11 +47,11 @@ In a much detailed level, the BC plan - roles & responsibilities should include:
 * These teams are in turn managed by a senior management official, who has the ultimate authority to activate the plan, and to make decisions regarding spending levels, acceptable risk, and interagency coordination.
 * The plan should also detail the order of succession as to who assumes responsibility for the contingency plan execution in the event that the highest authority is unavailable or unable to do so.
 
-###  Additional control information and project tracking
+## Additional control information and project tracking
 
 Non-public information relating to this security control as well as links to the work associated with various phases of project work can be found in the Business Continuity Plan: Roles and Responsibilities issue.
 
-####  Policy Reference
+###  Policy Reference
 
 ###  Framework Mapping
 

@@ -1,20 +1,18 @@
 # CM.1.03 - Change Management Issue Tracker
 
-
-
-### Control Statement
+## Control Statement
 
 A production issues board is available in IllumiDesk that outline project details for the production environment.
 
-###  Context
+## Context
 
 Tracking changes provides assurrence a change is not lossed or overlooked.
 
-###  Scope
+## Scope
 
 This control applies to all changes that support the business of IllumiDesk.com.
 
-###  Ownership
+## Ownership
 
 * Control Owner: `?`
 * Process owner\(s\):
@@ -22,9 +20,7 @@ This control applies to all changes that support the business of IllumiDesk.com.
   * Business Operations
   * Infrastructure
 
-###  Guidance
-
-###  Additional control information and project tracking
+## Additional control information and project tracking
 
 Non-public information relating to this security control as well as links to the work associated with various phases of project work can be found in the Change Management Issue Tracker issue.
 

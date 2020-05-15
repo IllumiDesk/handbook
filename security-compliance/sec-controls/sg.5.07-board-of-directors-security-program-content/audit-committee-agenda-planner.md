@@ -2,7 +2,7 @@
 
 We review the below topics no less frequently than the following schedule:
 
-**Management, Accounting and Reporting**
+## **Management, Accounting and Reporting**
 
 | Topics | FY Q1 | FY Q2 | FY Q3 | FY Q4 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ We review the below topics no less frequently than the following schedule:
 | Public reporting \(GAAP and Non-GAAP financials, non-GAAP metrics\) | X |  |  |  |
 | Guidance model | X |  |  |  |
 
-**People Division**
+## **People Division**
 
 | Topics | FY Q1 | FY Q2 | FY Q3 | FY Q4 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ We review the below topics no less frequently than the following schedule:
 | Payroll |  | X |  |  |
 | Compensation and hiring | X |  |  |  |
 
-**Legal, Risk and Compliance**
+## **Legal, Risk and Compliance**
 
 | Topics | FY Q1 | FY Q2 | FY Q3 | FY Q4 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -41,7 +41,7 @@ We review the below topics no less frequently than the following schedule:
 | Reg G - Governance | X |  |  |  |
 | Committee annual assessment |  | X |  |  |
 
-**Security Compliance**
+## **Security Compliance**
 
 | Topics | FY Q1 | FY Q2 | FY Q3 | FY Q4 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -51,7 +51,7 @@ We review the below topics no less frequently than the following schedule:
 | IT implementation projects and initiatives | X |  |  |  |
 | IT security update | X |  |  |  |
 
-**Internal Audit**
+## **Internal Audit**
 
 | Topics | FY Q1 | FY Q2 | FY Q3 | FY Q4 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -63,7 +63,7 @@ We review the below topics no less frequently than the following schedule:
 | Fraud Risk assessment | X |  | X |  |
 | Annual assessment of internal audit |  | X | X |  |
 
-**External Audit**
+## **External Audit**
 
 | Topics | FY Q1 | FY Q2 | FY Q3 | FY Q4 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -73,7 +73,7 @@ We review the below topics no less frequently than the following schedule:
 | Independence review |  |  | X | X |
 | Audit | X |  |  |  |
 
-**General**
+## **General**
 
 | Topics | FY Q1 | FY Q2 | FY Q3 | FY Q4 |
 | :--- | :--- | :--- | :--- | :--- |

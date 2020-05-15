@@ -1,20 +1,18 @@
 # RM.1.01 - Risk Assessment
 
-
-
-### Control Statement
+## Control Statement
 
 IllumiDesk performs risk assessments of production applications and services. Results from risk assessment activities are reviewed to prioritize mitigation of identified risks. Completed risk assessments are continually reviewed and revised.
 
-### Context
+## Context
 
 Risk assessments are important because they identify, prioritize, and help tracking the remediation of risks to IllumiDesk. The purpose of this control is to set an appropriate cadence for risk assessments and ensure the mitigation efforts to address those risks are reasonably prioritized. The goal of a risk assessment is to convey what the risks and their priority are to the audience.
 
-###  Scope
+## Scope
 
 This control applies to all systems within our production environment. The production environment includes all endpoints and cloud assets used in hosting IllumiDesk.com and its subdomains. This may include third-party systems that support the business of IllumiDesk.com.
 
-### Ownership
+## Ownership
 
 * Control Owner: `Security Compliance`
 * Process owner\(s\):
@@ -22,11 +20,11 @@ This control applies to all systems within our production environment. The produ
   * Data Protection Officers
   * Security Compliance
 
-### Guidance
+## Guidance
 
 This control can be tested by verifying that when a risk assessment is required by process, one is created, and that when a risk assessment is created and performed, it's done so according to the process documented in the handbook.
 
-### Additional control information and project tracking
+## Additional control information and project tracking
 
 Non-public information relating to this security control as well as links to the work associated with various phases of project work can be found in the Risk Assessment control issue.
 
