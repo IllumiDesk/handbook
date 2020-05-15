@@ -10,7 +10,7 @@ The IllumiDesk Data Classification Policy applies to all data handled, managed, 
 
 ### Roles and Responsibilities <a id="roles-and-responsibilities"></a>
 
-Everyone at GitLab is responsible to review, adhere to and handle data according to the classification levels below. The Data Classification Index \(internal only\) provides a list of various types of data and their classification level. If you cannot identify the data element or are uncertain of the risk associated with the data and how it should be classified and handled, please contact The Compliance Team.
+Everyone at IllumiDesk is responsible to review, adhere to and handle data according to the classification levels below. The Data Classification Index \(internal only\) provides a list of various types of data and their classification level. If you cannot identify the data element or are uncertain of the risk associated with the data and how it should be classified and handled, please contact The Compliance Team.
 
 ### Definitions <a id="definitions"></a>
 

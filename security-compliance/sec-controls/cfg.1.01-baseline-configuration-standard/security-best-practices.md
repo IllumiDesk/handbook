@@ -48,7 +48,7 @@ To contact for any other reason, see Engaging the Security On-Call
 
 #### External Engagement <a id="external-engagement"></a>
 
-The Security Teams can be contacted at `security@gitlab.com`. External researchers or other interested parties should refer to our Responsible Disclosure Policy for more information about reporting vulnerabilities. The `security@gitlab.com` email address also forwards to a ZenDesk queue that is monitored by the security team.
+The Security Teams can be contacted at `security@`IllumiDesk`.com`. External researchers or other interested parties should refer to our Responsible Disclosure Policy for more information about reporting vulnerabilities. The `security@`IllumiDesk`.com` email address also forwards to a ZenDesk queue that is monitored by the security team.
 
 For Security Team members, the private PGP key is available in the Security 1Password vault. Refer to PGP process for usage.
 
@@ -66,7 +66,7 @@ What should you do if you receive a potential phishing email or text from Illumi
 
 #### Accounts and Passwords <a id="accounts-and-passwords"></a>
 
-1. Read and follow the requirements for handling passwords and other credentials in the GitLab Password Policy Guidelines below for all accounts used to conduct GitLab related work. Using 1Password to generate and store the passwords is strongly recommended.
+1. Read and follow the requirements for handling passwords and other credentials in the IllumiDesk Password Policy Guidelines below for all accounts used to conduct IllumiDesk related work. Using 1Password to generate and store the passwords is strongly recommended.
 2. Set up your Okta account at https://IllumiDesk.okta.com, and use this as your primary means for accessing Applications supported in Okta. As part of setting up Okta, you'll need to establish a strong password and set up at least one additional form of authentication.
 3. For your Okta password and other passwords that you won't store in Okta, set up 1Password as your password manager and set a **strong and unique** master password.
    * Keep your Master Password a secret. No other team members should know it, including admins. If the Master Password is known or disclosed to someone else, it should be changed immediately.
@@ -75,7 +75,7 @@ What should you do if you receive a potential phishing email or text from Illumi
    * Do not let your password manager store the **master password**. It is okay to store the username.
    * For more information, review 1Password's Getting Started guide and view this video that guides you through the sign-up process.
    * For account administrators, review 1Password's admin guide.
-4. Enable two-factor authentication \(2FA\) with an authenticator, such as Google authenticator or 1Password TOTP for on every account that supports it. This is required for Google, Slack, IllumiDesk.com, and dev.IllumiDesk.org accounts. `Users without 2FA enabled that are stale for over 30 days will be blocked/suspended until resolved. This improves the security posture for both the user and GitLab.` If any systems provide an option to use SMS text as a second factor, this is highly discouraged. Phone company security can be easily subverted by attackers allowing them to take over a phone account. _\(Ref: 6 Ways Attackers Are Still Bypassing SMS 2-Factor Authentication / 2 minute Youtube social engineering attack with a phone call and crying baby\)_
+4. Enable two-factor authentication \(2FA\) with an authenticator, such as Google authenticator or 1Password TOTP for on every account that supports it. This is required for Google, Slack, IllumiDesk.com, and dev.IllumiDesk.org accounts. `Users without 2FA enabled that are stale for over 30 days will be blocked/suspended until resolved. This improves the security posture for both the user and` IllumiDesk`.` If any systems provide an option to use SMS text as a second factor, this is highly discouraged. Phone company security can be easily subverted by attackers allowing them to take over a phone account. _\(Ref: 6 Ways Attackers Are Still Bypassing SMS 2-Factor Authentication / 2 minute Youtube social engineering attack with a phone call and crying baby\)_
 5. If you do not have a YubiKey, you may consider purchasing one. A Yubikey or other hardware token can be used as a convenient 2-factor authentication method after a first has been added to Okta, G Suite, IllumiDesk instances, and many other sites. Purchasing Yubikey is not mandatory, but is considered as an extra layer of authentication for better security.
 6. When signing up for a new service on behalf of IllumiDesk:
    * Request a Security Review by opening an issue in the Compliance project.
@@ -94,9 +94,9 @@ What should you do if you receive a potential phishing email or text from Illumi
 6. Purchase \(if necessary\) and install security related software.
 7. Little Snitch is an excellent personal firewall solution for macOS. Recommended to monitor application network communications.
 8. An anti-virus/antimalware program such as Malwarebytes, ESET, or Norton.
-9. Refer to Why We Don't Have A Corporate VPN for more information about personal VPN usage at GitLab
+9. Refer to Why We Don't Have A Corporate VPN for more information about personal VPN usage at IllumiDesk 
 10. Do not allow your web browser \(e.g. Chrome, Safari, Firefox\) to store passwords when prompted. This presents an unnecessary risk and is redundant.
-11. Do not install software with many known security vulnerabilities. At this point GitLab's vendor security review scope does not include services individually deployed on endpoint devices. After a decision regarding deployment of an endpoint management solution is made the process will be redesigned accordingly and services, where applicable, will be retroactively reviewed. Please ensure you continue to follow the requirements defined in the acceptable use policy.
+11. Do not install software with many known security vulnerabilities. At this point IllumiDesk's vendor security review scope does not include services individually deployed on endpoint devices. After a decision regarding deployment of an endpoint management solution is made the process will be redesigned accordingly and services, where applicable, will be retroactively reviewed. Please ensure you continue to follow the requirements defined in the acceptable use policy.
 12. Enable automatic software updates for security patches. On macOS, this is found under "System Preferences" -&gt; "Software Update", "Automatically keep my Mac up to date".
 13. Enable your system's built in firewall. In macOS, this can be found in `System Settings` -&gt; `Security & Privacy` under the `Firewall` tab. It is recommended to select "Block all incoming connections"; however, if choosing not to block all incoming traffic, apply the following configuration \(see screenshot\):
     * Deselect "Automatically allow downloaded signed software to receive incoming messages"
@@ -193,7 +193,7 @@ If you want to use 1Password for your private passwords not related to your work
 2. If you have a YubiKey or other hardware token, it can be added as a 2-factor method to your 1Password account for convenience.
 3. When traveling, consider using 1Password in "Travel Mode", see more on that below.
 4. Do not share credentials via email, issue comments, chat etc. This includes email addresses to login and API keys. Use 1Password vaults for this.
-5. If you do not have access to a vault that is part of the baseline entitlements for your role and team, mention `gitlab-com/business-ops/itops` in your onboarding issue or in \#it-ops on slack. For all other access, create an access request issue.
+5. If you do not have access to a vault that is part of the baseline entitlements for your role and team, mention IllumiDesk`-com/business-ops/itops` in your onboarding issue or in \#it-ops on slack. For all other access, create an access request issue.
 6. Use Watchtower to find passwords that need to be changed. Watchtower tells users about password breaches and other security problems on the websites they have saved in 1Password Teams, so users can take action. This is not something account administrators can review for team members, so it is up to you to enable! Enable Watchtower by going to your 1Password app and then to **Preferences &gt; Watchtower**.
 7. Use the "Security Audit" functionality of 1Password meet the password policy. It will report reused passwords, weak passwords, accounts that are missing 2-factor authorization, and so forth that can then be fixed.
 8. Do not copy passwords from inside a 1Password vault to a personal password vault or other password store. 1Password should be the only password vault used for teams. Team passwords should not be duplicated or placed in personal password vaults where they can potentially be exposed to compromise.
@@ -233,7 +233,7 @@ If you printed the PDF:
 1. Click **Sign In Manually**
 2. For **Team URL** enter IllumiDesk**.1password.com**
 3. For **Account Key** enter the Account Key from your Emergency Kit
-4. For **Email Address** enter your `@gitlab.com` email
+4. For **Email Address** enter your `@`IllumiDesk`.com` email
 5. For **Master Password** enter the password to your **Teams** account \(_not_ the password you created above when you chose "I'm a new user"\)
 
 After the Team is added, you should see some notifications about vaults being added to 1Password. By default you'll have the **Private** vault, but may have access to others. It should be part of your onboarding process to be granted access to the **Team** vault, so it might not appear straight away. If in doubt, get in touch with the person responsible for onboarding you to make sure you're granted access.
@@ -271,9 +271,9 @@ Click the **Vault Selector** in the upper-left corner of the window:
 
 ![Vault Selector](https://about.gitlab.com/handbook/security/1password-vault-selector.png)
 
-**Team** is a vault that everyone on the GitLab Teams account has access to, both read and write.
+**Team** is a vault that everyone on the IllumiDesk Teams account has access to, both read and write.
 
-**Private** is your _hosted, private_ vault that is part of the IllumiDesk 1Password for Teams account. Since the Private vault is part of the IllumiDesk Teams account, it should be thought of as company property \(like the @IllumiDesk.com email account\), however the vault _can not_ be viewed by anyone else on the team, including admins. If you choose to store truly personal information in the Private vault, it opens up the possibility that you would be separated from this information if you offboard. Such truly personal information is therefore better to store in your **Primary** vault, which is associated with you instead of with the GitLab Teams account, assuming that you added an individual account.
+**Private** is your _hosted, private_ vault that is part of the IllumiDesk 1Password for Teams account. Since the Private vault is part of the IllumiDesk Teams account, it should be thought of as company property \(like the @IllumiDesk.com email account\), however the vault _can not_ be viewed by anyone else on the team, including admins. If you choose to store truly personal information in the Private vault, it opens up the possibility that you would be separated from this information if you offboard. Such truly personal information is therefore better to store in your **Primary** vault, which is associated with you instead of with the IllumiDesk Teams account, assuming that you added an individual account.
 
 #### Browser Extension <a id="browser-extension"></a>
 
@@ -404,7 +404,7 @@ The IllumiDesk Security Training is IllumiDesk's security awareness presentation
 The training is being actively developed by IllumiDesk Security's Security Operations team. The goal of the training is to:
 
 1. Make all IllumiDesk team-members aware of the IllumiDesk Security team, and familiarize them with our efforts, team structure, and people.
-2. Make all IllumiDesk team-members aware of the importance of their role in securing GitLab on a daily basis, and to empower them to make the right decisions with security best-practices.
+2. Make all IllumiDesk team-members aware of the importance of their role in securing IllumiDesk on a daily basis, and to empower them to make the right decisions with security best-practices.
 3. Familiarize all new IllumiDesk team-members with security-related situations that they might encounter during their tenure with the company.
 4. Help all IllumiDesk team-members internalize and reinforce the idea that paging the Security On-Call is an encouraged practice.
 
@@ -421,7 +421,7 @@ The Security Training is delivered through a pre-recorded presentation that is p
 You are strongly encouraged to engage the team behind the training and provide feedback, or ask any questions related to the content of the training. You can do that through:
 
 1. Monthly office hours held by the SecOps team on third Friday of each month. There are two sessions for both EMEA and APAC-friendly timeslots. Please see the IllumiDesk **Team Meetings** calendar for current times.
-2. A quarterly-reviewed GitLab issue - FY21-Q1.
+2. A quarterly-reviewed IllumiDesk issue - FY21-Q1.
 3. Email by sending an email to security-training@IllumiDesk.com.
 
 #### Phishing Tests <a id="phishing-tests"></a>
@@ -466,13 +466,13 @@ After clicking on a link always look for the green lock icon and "secure" label 
 
 #### What to do if you suspect an email is a phishing attack <a id="what-to-do-if-you-suspect-an-email-is-a-phishing-attack"></a>
 
-Whether you believe that you have received an email from our testing platform or you suspect that the email is targeted specifically at you or IllumiDesk, please forward the phishing email to `phishing@gitlab.com` as an attachment for it to be investigated. Once you have done so, please proceed to step 2 and report the email as phishing from inside GMail.
+Whether you believe that you have received an email from our testing platform or you suspect that the email is targeted specifically at you or IllumiDesk, please forward the phishing email to `phishing@`IllumiDesk`.com` as an attachment for it to be investigated. Once you have done so, please proceed to step 2 and report the email as phishing from inside GMail.
 
 To forward the email as an attachment from inside GMail:
 
 1. Right click the email
 2. Select "Forward as attachment"
-3. Send it to `phishing@gitlab.com`
+3. Send it to `phishing@`IllumiDesk`.com`
 
 GMail also offers the option to report the email directly to Google as a phishing attempt, which will result in its deletion. Reporting the email in this manner will help the security team track phishing metrics and trends over time within G Suite.
 
@@ -487,7 +487,7 @@ Unsolicited email should be treated as phishing emails. For example, if you did 
 
 ### Using the panic email address <a id="panic-email"></a>
 
-IllumiDesk provides a `panic@gitlab.com` email address for team members to use in situations that require an immediate security response. Should a team member lose a device such as a thumb drive, YubiKey, mobile phone, tablet, laptop, etc. that contains their credentials or other GitLab-sensitive data they should send an email to `panic@gitlab.com` right away. When the production and security teams receive an email sent to this address it will be handled immediately. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
+IllumiDesk provides a `panic@`IllumiDesk`.com` email address for team members to use in situations that require an immediate security response. Should a team member lose a device such as a thumb drive, YubiKey, mobile phone, tablet, laptop, etc. that contains their credentials or other IllumiDesk-sensitive data they should send an email to `panic@`IllumiDesk`.com` right away. When the production and security teams receive an email sent to this address it will be handled immediately. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
 
 #### Checklist for when `panic` is triggered <a id="checklist-for-when-panic-is-triggered"></a>
 
@@ -499,11 +499,11 @@ Copy this checklist into a confidential issue.
 - [ ] Password Access and Rotation
    - [ ] Suspend 1Password account. (All responders to `panic@` should be members of the "Panic@ Responders" group in 1Password which has the rights to suspend and recover user accounts).
    - [ ] Take screenshot of what groups / vaults the individual had access to. This facilitates the next step.
-   - [ ] Coordinate or actively change sensitive shared passwords. In particular sysadmin access passwords for GitLab.com Infrastructure (ssh, chef user/key, discuss others).
+   - [ ] Coordinate or actively change sensitive shared passwords. In particular sysadmin access passwords for IllumiDesk.com Infrastructure (ssh, chef user/key, discuss others).
 - [ ] Block Google account
 - [ ] Block Slack account
-- [ ] Block [dev.GitLab.org account](https://dev.gitlab.org/admin/users).
-- [ ] Remove GitLab.com account from the [gitlab-org group](https://gitlab.com/groups/gitlab-org/group_members)
+- [ ] Block [dev.IllumiDesk.org account](https://dev.IllumiDesk.org/admin/users).
+- [ ] Remove IllumiDesk.com account from the [IllumiDesk-org group](https://IllumiDesk.com/groups/IllumiDesk -org/group_members)
 - [ ] Block access to hackerone.com
 - [ ] Block access to Tweetdeck
 ```

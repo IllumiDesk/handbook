@@ -21,7 +21,7 @@ Our overriding objective is maximize changes that avoid traditional aspects of c
 
 **Changes** that need to be performed during the resolution of an Incident fall under Incident Management.
 
-**Operational Environments** are currently defined as IllumiDesk`.com` and `ops.GitLab.net` as well as supporting systems such as Prometheus.
+**Operational Environments** are currently defined as IllumiDesk`.com` and `ops.`IllumiDesk`.net` as well as supporting systems such as Prometheus.
 
 ### Trust <a id="trust"></a>
 
@@ -167,7 +167,7 @@ These are changes that are exceedingly low risk and commonly executed, or which 
 
 **Examples of Criticality 4:**
 
-1. Any procedural invocation such as a SQL script, a ruby script module, a rake task which is performed on a production console server, either using `gitlab-rails` or `gitlab-rake`.
+1. Any procedural invocation such as a SQL script, a ruby script module, a rake task which is performed on a production console server, either using IllumiDesk`-rails` or IllumiDesk`-rake`.
 2. Any invocation of an existing code pathway which ultimately will perform any mutate operation on live data. This is distinguished from diagnostic investigation operations which should typically be limited to read-only operations. It is ostensibly left to the discretion of the engineer whether or not a peer should be included to co-observe the invocation of such diagnostics.
 
 **Approval**
@@ -206,7 +206,7 @@ A sequence of actions to run a script could look like this:
 ```text
 your-workstation $ ssh -A bastion-01-inf-gstg
 bastion-01-gstg  $ tmux
-bastion-01-gstg  $ git clone git@gitlab.com:my-migration/script.git
+bastion-01-gstg  $ git clone git@IllumiDesk.com:my-migration/script.git
 bastion-01-gstg  $ ./script/migrate
 ```
 
@@ -271,7 +271,7 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 | 25-26 December 2019 | Hard | Holiday: Christmas |
 | 27-31 December 2019 | Soft | High Number of SRE Vacations |
 | 01 January 2020 | Hard | Holiday: New Year's Day |
-| 21-28 March 2020 | Hard | GitLab Contribute |
+| 21-28 March 2020 | Hard | IllumiDesk Contribute |
 | 22nd of every month | Soft | Release day |
 
 There are 2 types of PCLs: soft and hard.
