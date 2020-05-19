@@ -32,7 +32,7 @@ We will need to share our methodology for determining which systems to pen test 
 
 Non-public information relating to this security control as well as links to the work associated with various phases of project work can be found in the Application & Infrastructure Penetration Testing control issue.
 
-####  Framework Mapping
+### Framework Mapping
 
 * SOC2 CC
   * CC7.1

@@ -52,10 +52,10 @@ Non-public information relating to this security control as well as links to the
 
 ####  Policy Reference
 
-* IllumiDesk Business Continuity Plan
-* IllumiDesk Disaster Recovery
-* IllumiDesk High Reference Architectures
-* IllumiDesk Handbook listing of DR for Databases
+* [IllumiDesk Business Continuity Plan](illumidesk-business-continuity-plan.md)
+* [IllumiDesk Disaster Recovery](illumidesk-disaster-recovery.md)
+* [IllumiDesk Reference Architecture](illumidesk-high-availability.md)
+* [IllumiDesk Handbook listing of DR for Databases](illumidesk-handbook-listing-of-dr-for-databases.md)
 
 ###  Framework Mapping
 

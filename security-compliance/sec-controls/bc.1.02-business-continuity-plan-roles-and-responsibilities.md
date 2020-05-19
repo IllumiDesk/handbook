@@ -14,9 +14,7 @@ This control is a subset of the Business Continuity plan. The purpose of this co
 
 Roles and Responsibilities should be defined for the following environments and systems:
 
-* BC plan for  IllumiDesk .com
-* BC plan for customers. IllumiDesk .com \(Azure\)
-* BC plan for license. IllumiDesk .com \(AWS\)
+* BC plan for  my.illumidesk.com
 * Processes and procedures that support business operations and above environments
 
 ##  Ownership
@@ -25,7 +23,7 @@ Roles and Responsibilities should be defined for the following environments and 
 
 ## Guidance
 
-As part of the esablishment of a BC plan: One of the key areas is to identify individuals who will be designated to be the key personnel responsible for the restoration activities. A high level BC roles & responsibilities section should include the following listed below:
+As part of the establishment of a BC plan: One of the key areas is to identify individuals who will be designated to be the key personnel responsible for the restoration activities. A high level BC roles & responsibilities section should include the following listed below:
 
 * The BC plan roles & responsibilities section will detail the names of the assigned individuals, their roles, plan of action during disaster, what they are responsible to recover along with their contact information.
 * This has to be reviewed and approved by the respective managers and senior management for correctness.

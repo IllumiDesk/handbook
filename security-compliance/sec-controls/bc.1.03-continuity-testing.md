@@ -15,9 +15,9 @@ IllumiDesk performs business continuity and disaster recovery tests annually and
 
 The business continuity plan is only useful if it is both maintained and validated. The testing part of this process is meant to be that validation and determines the efficacy of the plan. The purpose of this control is to determine if the business continuity plan would work in the event of a disruption to normal IllumiDesk operations. The business continuity test must have these three main categories:
 
-* Recovery Planning: Ensuring that Recovery processes and procedures are executed and maintained to timely restoration of systems or assets affected by any disruptive event.
-* Improvements: Recovery planning and processes are improved by incorporating lessons learned into future activities.
-* Communications: Restoration activities are coordinated with internal and external parties: such as coordinating centers, Internet Service Providers, system owners, victims and vendors.
+* **Recovery Planning**: Ensuring that Recovery processes and procedures are executed and maintained to timely restoration of systems or assets affected by any disruptive event.
+* **Improvements**: Recovery planning and processes are improved by incorporating lessons learned into future activities.
+* **Communications**: Restoration activities are coordinated with internal and external parties: such as coordinating centers, Internet Service Providers, system owners, victims and vendors.
 
 ###  Scope
 

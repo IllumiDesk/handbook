@@ -1,14 +1,14 @@
 # Business Impact Analysis in the handbook
 
-## Business Impact Analysis <a id="business-impact-analysis"></a>
+## Business Impact Analysis
 
 The Business Impact Analysis \(BIA\) is developed as part of the Business Continuity Plan process.
 
-### Purpose <a id="purpose"></a>
+## Purpose
 
 The purpose of the BIA is to identify and prioritize system components by correlating them to mission critical processes that support the functioning of IllumiDesk. Using this information to characterize what would be the impact to IllumiDesk, if any of these systems were to be unavailable.
 
-#### The Business Impact Analysis is composed of the following: <a id="the-business-impact-analysis-is-composed-of-the-following"></a>
+### The Business Impact Analysis is composed of the following:
 
 1. Determine data classification and approved operating System usage: IllumiDesk data and system resources can more clearly be linked to mission critical business processes by way of classifying them based on sensitivity. These priority levels can be established for sequencing recovery activities and resources. Additionally, the existence of an approved set of operating systems platforms will facilitate ease of management and quick turnaround and repair when they are non-functional.
    * IllumiDesk's Data Classification policy covers all aspects of this requirement:
@@ -33,11 +33,11 @@ The following links show the process carried out at IllumiDesk to cater to this 
 * On-Call Runbooks - Incident response runbooks for on-call engineers. .
 * Support Team function in the handbook.
 
-### Conclusion <a id="conclusion"></a>
+## Conclusion
 
 The most important part of the Business Impact Analysis is to weigh the exactness of all findings. Communicate the findings to the respective department managers or key personnel to ensure that the assumptions made are in fact accurate and realistic. Once the accuracy of the documented findings has been established and agreed to by all parties, these BIA findings are submitted to IllumiDesk's e-group for approval.
 
-#### Plan update and protect from disclosure <a id="plan-update-and-protect-from-disclosure"></a>
+### Plan update and protect from disclosure
 
 The BIA report will be updated based on changes to the organization, information system, or environment of operation and problems encountered during the implementation, execution, or testing. This plan will be protected from unauthorized disclosure and modification. Finally, all the Business Impact Analysis data will be stored in a safe place for future reference in the event of a disaster.
 

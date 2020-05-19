@@ -14,7 +14,7 @@ This control applies to IllumiDesk's ToS.
 
 ## Ownership
 
-TBD
+* Legal and Compliance
 
 ## Additional control information and project tracking
 
