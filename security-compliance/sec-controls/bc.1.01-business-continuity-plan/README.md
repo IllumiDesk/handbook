@@ -46,7 +46,7 @@ Based on the above, IllumiDesk business continuity plan will have the team and d
 
 ## Additional control information and project tracking
 
-Non-public information relating to this security control as well as links to the work associated with various phases of project work can be found in the Business Continuity Plan issue .
+Non-public information relating to this security control as well as links to the work associated with various phases of project work can be found in the Business Continuity Plan issue.
 
 ### Policy Reference
 

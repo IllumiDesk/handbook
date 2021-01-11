@@ -12,7 +12,7 @@
 * [Employee Conduct](people-group/employee-conduct.md)
 * [Timekeeping & Payroll](people-group/timekeeping-and-payroll.md)
 
-## Security Compliance
+## Security and Compliance <a id="security-compliance"></a>
 
 * [Security Controls](security-compliance/sec-controls/README.md)
   * [BC.1.01 - Business Continuity Plan](security-compliance/sec-controls/bc.1.01-business-continuity-plan/README.md)
@@ -115,4 +115,8 @@
   * [VUL.4.01 - Enterprise Protection](security-compliance/sec-controls/vul.4.01-enterprise-protection.md)
   * [VUL.5.01 - Code Security Check](security-compliance/sec-controls/vul.5.01-code-security-check.md)
   * [VUL.6.01 - External Information Security Inquiries](security-compliance/sec-controls/vul.6.01-external-information-security-inquiries.md)
+
+---
+
+* [VPAT Version 2.3](vpat-version-2.3.md)
 
